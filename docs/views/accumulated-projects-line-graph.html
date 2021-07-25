@@ -1,0 +1,368 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script
+            src="https://code.jquery.com/jquery-3.6.0.min.js"
+            integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+            crossorigin="anonymous"></script>
+    <script
+            src="https://cdn.jsdelivr.net/npm/chart.js@3.4.1/dist/chart.min.js"></script>
+    <title>Accumulated SYCL&trade; Projects by Year</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        html, body {
+            font-family: Arial,serif;
+            background-color: #efefef;
+            height: 100vh;
+            padding: 0;
+            margin: 0;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: inherit;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        #container {
+            display: flex;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        #container > div {
+            padding: 2rem 3rem;
+        }
+
+        #container > div:nth-of-type(1) {
+            background-color: #ff6100;
+            color: #efefef;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+
+        #container > div:nth-of-type(1) h1 {
+            font-size: 1.6rem;
+            padding: 0;
+            margin: 0;
+        }
+
+        #container > div:nth-of-type(1) h2 {
+            font-size: 1rem;
+            padding: 0;
+            margin: 0.5rem 0 0 0;
+            font-weight: normal;
+            opacity: .6;
+        }
+
+        #container > div:nth-of-type(1) > div:last-of-type {
+            text-align: right;
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            flex-direction: column;
+        }
+
+        #container > div:nth-of-type(2) {
+            flex-grow: 1;
+        }
+
+        #loading, #chart {
+            display: none;
+        }
+
+        #loading {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            color: #999;
+            font-size: 2rem;
+            transform: translate(-50%, -50%);
+        }
+
+        #chart-container {
+            box-sizing: border-box;
+            height: calc(100% - 1rem);
+        }
+
+        .popup-container {
+            background-color: rgba(0, 0, 0, .4);
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            justify-content: center;
+            align-items: center;
+            display: none;
+            z-index: 9999999;
+        }
+
+        .popup-container * {
+            box-sizing: border-box;
+            padding: 0;
+            margin: 0;
+        }
+
+        .popup-container > div {
+            width: 500px;
+            height: auto;
+            background-color: #222;
+            color: #fff;
+            padding: 2rem;
+        }
+
+        .popup-container ol {
+            list-style: none;
+            max-height: 500px;
+            overflow: auto;
+        }
+
+        .popup-container li:not(:last-of-type) {
+            border-bottom: rgba(255, 255, 255, 0.2) 1px solid;
+        }
+
+        .popup-container a {
+            display: block;
+            padding: .5rem 0;
+        }
+
+        .popup-container h1 {
+            margin: 1rem 0 .5rem 0;
+        }
+
+        .popup-container h2 {
+            font-size: 1rem;
+            font-weight: normal;
+            margin: 0 0 2rem 0;
+            opacity: 0.6;
+        }
+
+        .popup-container button {
+            display: block;
+            margin-top: 1rem;
+            width: 100%;
+            padding: 1rem;
+            background-color: rgba(255, 255, 255, 0.2);
+            border: 0;
+            color: #efefef;
+            cursor: pointer;
+        }
+
+        .popup-container button:hover {
+            background-color: rgba(255, 255, 255, 0.4);
+        }
+    </style>
+    <script>
+        // Chart if the Graph.js chart
+        let chart = null;
+
+        /**
+         * When ready, create the graph and load the projects.
+         */
+        $(() => {
+            loadAndProcessProjects();
+
+            const ctx = document.getElementById('chart').getContext('2d');
+            chart = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    datasets: [{
+                        label: 'Accumulated SYCL Based Projects (click to view)',
+                        data: [],
+                        backgroundColor: [
+                            'rgba(255, 97, 0, 0.17)',
+                        ],
+                        borderColor: [
+                            '#ff6100',
+                        ],
+                        pointBackgroundColor: "#ff6100",
+                        fill: true,
+                        borderWidth: 1,
+                        pointRadius: 10,
+                        pointHoverRadius: 12,
+                        lineTension: 0.4
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    onClick: (evt) => {
+                        const points = chart.getElementsAtEventForMode(evt, 'nearest', { intersect: true }, true);
+
+                        if (points.length) {
+                            const firstPoint = points[0];
+                            const value = chart.data.datasets[firstPoint.datasetIndex].data[firstPoint.index];
+
+                            onGraphPointClick(value['x'], value['projects']);
+                        }
+                    },
+                    scales: {
+                        x: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Year'
+                            }
+                        },
+                        y: {
+                            display: true,
+                            title: {
+                                display: true,
+                                text: 'Accumulated Projects'
+                            }
+                        }
+                    },
+                    plugins: {
+                        legend: {
+                            display: false
+                        }
+                    },
+                    legend: {
+                        display: false
+                    }
+                },
+            });
+
+            $(document).on('keyup', function(e) {
+                if (e.key === "Escape") $('.popup-container').fadeOut();
+            });
+        });
+
+        /**
+         * Load the projects from the GitHub SYCL project list .json file and initialize the graph.
+         */
+        function loadAndProcessProjects() {
+            $('#chart').hide();
+            $('#loading').show();
+
+            $.get('https://raw.githubusercontent.com/scottstraughan/sycl-project-list/main/projects.json')
+                .done(function(data) {
+                    const chartDataModel =
+                        convertYearBasedDictIntoGraphModel(
+                            convertProjectListIntoYearBasedDict(
+                                JSON.parse(data)['projects']));
+
+                    chartDataModel.sort(function(a, b) {
+                        if (a.x > b.x)
+                            return 1;
+                    });
+
+                    // Load the projects
+                    chart.data.datasets[0].data = chartDataModel;
+                    chart.update();
+
+                    // Few UI updates
+                    $('#loading').hide();
+                    $('#chart').show();
+                });
+        }
+
+        /**
+         * Converts a list of projects into a dictionary that's keys are the year the project was created. The value
+         * is the list of projects for that year.
+         */
+        function convertProjectListIntoYearBasedDict(projects) {
+            let yearKeyDict = {};
+
+            for (const project of projects) {
+                const date = new Date(Date.parse(project['date_created']));
+                const key = date.getFullYear();
+
+                if (!yearKeyDict.hasOwnProperty(key)) {
+                    yearKeyDict[key] = {
+                        'projects': []
+                    };
+                }
+
+                yearKeyDict[key]['projects'].push(project);
+            }
+
+            return yearKeyDict;
+        }
+
+        /**
+         * Converts a year based dict (Object) into an array of accumulated projects.
+         */
+        function convertYearBasedDictIntoGraphModel(yearBasedDict) {
+            let chartDataModel = [];
+            let accumulatedProjects = [];
+
+            for (const [key, value] of Object.entries(yearBasedDict)) {
+                accumulatedProjects = accumulatedProjects.concat(value['projects']);
+
+                chartDataModel.push({
+                    x: key,
+                    y: accumulatedProjects.length,
+                    projects: accumulatedProjects
+                });
+            }
+
+            return chartDataModel;
+        }
+
+        /**
+         * Called when a point on the graph is clicked. Will show the SYCL project list for that year.
+         * @param date
+         * @param projects
+         */
+        function onGraphPointClick(date, projects) {
+            $('.popup-container .popup h1').text('SYCL Projects for ' + date);
+            $('.popup-container .popup h2').text('Found ' + projects.length + ' projects.');
+
+            $('.popup-container').show().css('display', 'flex');
+
+            $('.popup-container .popup ol').empty();
+
+            for(let project of projects) {
+                $('.popup-container .popup ol').append(
+                    '<li><a href="' + project['url'] + '" target="_blank">' + project['name'] + '</a></li>'
+                );
+            }
+
+            $('.popup-container .popup button').click(function() {
+                $('.popup-container').fadeOut();
+            });
+        }
+    </script>
+</head>
+<body>
+<div class="popup-container">
+    <div class="popup">
+        <h1></h1>
+        <h2></h2>
+        <ol></ol>
+        <button>Close</button>
+    </div>
+</div>
+<div id="container">
+    <div>
+        <div>
+            <h1>Accumulated SYCL&trade; Projects by Year</h1>
+            <h2>Curated from <a href="https://github.com/scottstraughan/sycl-project-list"
+                                target="_blank"
+                                rel="noopener">sycl-project-list GitHub</a></h2>
+        </div>
+        <div>
+            <div>
+                <a href="https://sycl.tech" target="_blank" rel="noopener">Visit<br /><b>sycl.tech</b></a>
+            </div>
+        </div>
+    </div>
+    <div id="chart-container">
+        <div id="loading">Loading Projects, Please Wait...</div>
+        <div style="height: calc(100% - 1rem);"><canvas id="chart"></canvas></div>
+    </div>
+</div>
+</body>
+</html>
