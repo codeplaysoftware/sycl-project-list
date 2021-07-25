@@ -2,6 +2,10 @@
 
 This is simply a curated list of SYCL based projects. It is designed to be used in other services, charting software etc.
 
+## View Projects
+
+You can view projects by opening the ```projects.json``` file or visiting [SYCL Project List](https://scottstraughan.github.io/sycl-project-list/) to view the GitHub pages rendered views.
+
 ## Add A Project
 
 Edit the file ```projects.json``` and add the below json object into the ```projects``` array.
@@ -21,7 +25,3 @@ Edit the file ```projects.json``` and add the below json object into the ```proj
 ```
 
 Create a pull request.
-
-## Where Is It Used?
-
-No where, yet.
