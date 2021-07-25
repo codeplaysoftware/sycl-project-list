@@ -4,6 +4,8 @@ This is simply a curated list of SYCL based projects. It is designed to be used 
 
 ## View Projects
 
+[CLICK HERE TO VIEW PROJECTS IN DIFFERENT VIEWS](https://scottstraughan.github.io/sycl-project-list/)
+
 You can view projects by opening the ```projects.json``` file or visiting [SYCL Project List](https://scottstraughan.github.io/sycl-project-list/) to view the GitHub pages rendered views.
 
 ## Add A Project
