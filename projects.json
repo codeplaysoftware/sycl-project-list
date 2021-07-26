@@ -312,7 +312,7 @@
     },
     {
       "name": "OP2-Common",
-      "date_created": "2011-06-03",
+      "date_created": "",
       "url": "https://github.com/OP-DSL/OP2-Common",
       "short_description": "OP2 is an API with associated libraries and preprocessors to generate parallel executables for applications on unstructured grids.",
       "owner": {
@@ -543,7 +543,7 @@
     },
     {
       "name": "gromacs",
-      "date_created": "2009-06-06",
+      "date_created": "",
       "url": "https://github.com/gromacs/gromacs",
       "short_description": "No description provided.",
       "owner": {
