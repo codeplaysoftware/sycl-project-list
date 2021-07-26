@@ -4,7 +4,7 @@
   "projects": [
     {
       "name": "Multigrid_Nikhil_C-",
-      "date_created": "2021-01-24T16:12:03Z",
+      "date_created": "2021-01-24",
       "url": "https://github.com/nikhilTkur/Multigrid_Nikhil_C-",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -15,7 +15,7 @@
     },
     {
       "name": "chapel-gpu",
-      "date_created": "2018-06-22T18:31:53Z",
+      "date_created": "2018-06-22",
       "url": "https://github.com/ahayashi/chapel-gpu",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -26,7 +26,7 @@
     },
     {
       "name": "cvpp",
-      "date_created": "2021-04-17T14:55:18Z",
+      "date_created": "2021-04-17",
       "url": "https://github.com/Sponk/cvpp",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -37,7 +37,7 @@
     },
     {
       "name": "ExaMiniMD",
-      "date_created": "2017-02-16T22:02:23Z",
+      "date_created": "2017-02-16",
       "url": "https://github.com/ECP-copa/ExaMiniMD",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -48,7 +48,7 @@
     },
     {
       "name": "kharma",
-      "date_created": "2020-04-27T13:29:29Z",
+      "date_created": "2020-04-27",
       "url": "https://github.com/AFD-Illinois/kharma",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -59,7 +59,7 @@
     },
     {
       "name": "cuPycl",
-      "date_created": "2021-05-19T03:49:44Z",
+      "date_created": "2021-05-19",
       "url": "https://github.com/AD2605/cuPycl",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -70,7 +70,7 @@
     },
     {
       "name": "tsp",
-      "date_created": "2020-12-23T16:24:04Z",
+      "date_created": "2020-12-23",
       "url": "https://github.com/pkestene/tsp",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -81,7 +81,7 @@
     },
     {
       "name": "arrsin",
-      "date_created": "2021-04-27T18:38:04Z",
+      "date_created": "2021-04-27",
       "url": "https://github.com/apc-llc/arrsin",
       "short_description": "No description provided.",
       "owner": {
@@ -92,7 +92,7 @@
     },
     {
       "name": "camp",
-      "date_created": "2018-08-21T21:54:40Z",
+      "date_created": "2018-08-21",
       "url": "https://github.com/LLNL/camp",
       "short_description": "No description provided.",
       "owner": {
@@ -103,7 +103,7 @@
     },
     {
       "name": "gemmforge",
-      "date_created": "2020-05-05T18:28:48Z",
+      "date_created": "2020-05-05",
       "url": "https://github.com/ravil-mobile/gemmforge",
       "short_description": "No description provided.",
       "owner": {
@@ -114,7 +114,7 @@
     },
     {
       "name": "yateto",
-      "date_created": "2019-03-26T15:11:18Z",
+      "date_created": "2019-03-26",
       "url": "https://github.com/SeisSol/yateto",
       "short_description": "No description provided.",
       "owner": {
@@ -125,7 +125,7 @@
     },
     {
       "name": "SeisSol",
-      "date_created": "2014-07-03T11:17:47Z",
+      "date_created": "2014-07-03",
       "url": "https://github.com/SeisSol/SeisSol",
       "short_description": "No description provided.",
       "owner": {
@@ -136,7 +136,7 @@
     },
     {
       "name": "SYCL-DNN",
-      "date_created": "2018-05-28T10:59:33Z",
+      "date_created": "2018-05-28",
       "url": "https://github.com/codeplaysoftware/SYCL-DNN",
       "short_description": "SYCL-DNN is a library implementing neural network algorithms written using SYCL.",
       "owner": {
@@ -147,7 +147,7 @@
     },
     {
       "name": "sycl-blas",
-      "date_created": "2016-09-05T13:24:34Z",
+      "date_created": "2016-09-05",
       "url": "https://github.com/codeplaysoftware/sycl-blas",
       "short_description": "An implementation of BLAS using the SYCL open standard.",
       "owner": {
@@ -158,7 +158,7 @@
     },
     {
       "name": "oneDNN",
-      "date_created": "2016-05-09T23:26:42Z",
+      "date_created": "2016-05-09",
       "url": "https://github.com/oneapi-src/oneDNN",
       "short_description": "No description provided.",
       "owner": {
@@ -169,7 +169,7 @@
     },
     {
       "name": "oneMKL",
-      "date_created": "2020-03-05T23:55:03Z",
+      "date_created": "2020-03-05",
       "url": "https://github.com/oneapi-src/oneMKL",
       "short_description": "No description provided.",
       "owner": {
@@ -180,7 +180,7 @@
     },
     {
       "name": "glm",
-      "date_created": "2012-09-06T00:04:56Z",
+      "date_created": "2012-09-06",
       "url": "https://github.com/g-truc/glm",
       "short_description": "No description provided.",
       "owner": {
@@ -191,7 +191,7 @@
     },
     {
       "name": "antares",
-      "date_created": "2020-06-24T04:58:46Z",
+      "date_created": "2020-06-24",
       "url": "https://github.com/microsoft/antares",
       "short_description": "Antares is an automatic engine for multi-platform kernel generation and optimization.",
       "owner": {
@@ -202,7 +202,7 @@
     },
     {
       "name": "ArborX",
-      "date_created": "2019-04-09T20:44:44Z",
+      "date_created": "2019-04-09",
       "url": "https://github.com/arborx/ArborX",
       "short_description": "ArborX is an open-source library designed to provide performance portable algorithms for geometric search, similarly to nanoflann and Boost Geometry.",
       "owner": {
@@ -213,7 +213,7 @@
     },
     {
       "name": "ga",
-      "date_created": "2017-02-17T20:48:30Z",
+      "date_created": "2017-02-17",
       "url": "https://github.com/GlobalArrays/ga",
       "short_description": "This directory contains the Global Arrays (GA), Communications Runtime for Exascale (ComEx) run-time library, Aggregate Remote Memory Copy Interface (ARMCI) run-time library, Memory Allocator (MA), parallel I/O libraries (DRA,EAF,SF), TCGMSG, and TCGMSG-MPI packages bundled together.",
       "owner": {
@@ -224,7 +224,7 @@
     },
     {
       "name": "YAKL",
-      "date_created": "2019-04-27T01:55:06Z",
+      "date_created": "2019-04-27",
       "url": "https://github.com/mrnorman/YAKL",
       "short_description": "A simple C++ framework for performance portability and Fortran code porting.",
       "owner": {
@@ -235,7 +235,7 @@
     },
     {
       "name": "gpublas",
-      "date_created": "2020-10-26T21:12:26Z",
+      "date_created": "2020-10-26",
       "url": "https://github.com/wdmapp/gpublas",
       "short_description": "C/C++ library wrapping cuBLAS, rocBLAS, and DPC++ oneAPI MKL blas (USM version). Implementation is C++, the interface provided is C and designed for easy calling from Fortran code.",
       "owner": {
@@ -246,7 +246,7 @@
     },
     {
       "name": "ginkgo",
-      "date_created": "2018-01-11T16:14:21Z",
+      "date_created": "2018-01-11",
       "url": "https://github.com/ginkgo-project/ginkgo",
       "short_description": "Ginkgo is a high-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems.",
       "owner": {
@@ -257,7 +257,7 @@
     },
     {
       "name": "Paracabs",
-      "date_created": "2020-07-29T13:36:51Z",
+      "date_created": "2020-07-29",
       "url": "https://github.com/Magritte-code/Paracabs",
       "short_description": "No description provided.",
       "owner": {
@@ -268,7 +268,7 @@
     },
     {
       "name": "StencilStream",
-      "date_created": "2020-09-28T13:12:58Z",
+      "date_created": "2020-09-28",
       "url": "https://github.com/pc2/StencilStream",
       "short_description": "Generic Stencil Simulation Library that can execute arbitrary Moore-like stencil kernels on arbitrary cell types in arbitrary buffers, using FPGAs.",
       "owner": {
@@ -279,7 +279,7 @@
     },
     {
       "name": "gtensor",
-      "date_created": "2020-04-13T13:34:48Z",
+      "date_created": "2020-04-13",
       "url": "https://github.com/wdmapp/gtensor",
       "short_description": "Gtensor is a multi-dimensional array C++14 header-only library for hybrid GPU development.",
       "owner": {
@@ -290,7 +290,7 @@
     },
     {
       "name": "dolfinx.sycl",
-      "date_created": "2020-10-22T14:30:43Z",
+      "date_created": "2020-10-22",
       "url": "https://github.com/Excalibur-SLE/dolfinx.sycl",
       "short_description": "Simple code to assemble the Poisson equation on manycore architectures using Dolfinx and SYCL.",
       "owner": {
@@ -301,7 +301,7 @@
     },
     {
       "name": "Grid",
-      "date_created": "2015-03-04T02:30:11Z",
+      "date_created": "2015-03-04",
       "url": "https://github.com/paboyle/Grid",
       "short_description": "This library provides data parallel C++ container classes with internal memory layout that is transformed to map efficiently to SIMD architectures.",
       "owner": {
@@ -312,7 +312,7 @@
     },
     {
       "name": "OP2-Common",
-      "date_created": "2011-06-03T15:36:25Z",
+      "date_created": "2011-06-03",
       "url": "https://github.com/OP-DSL/OP2-Common",
       "short_description": "OP2 is an API with associated libraries and preprocessors to generate parallel executables for applications on unstructured grids.",
       "owner": {
@@ -323,7 +323,7 @@
     },
     {
       "name": "picsar",
-      "date_created": "2020-06-22T14:56:30Z",
+      "date_created": "2020-06-22",
       "url": "https://github.com/ECP-WarpX/picsar",
       "short_description": "PICSAR is a high performance repository intended to help scientists porting their Particle-In-Cell (PIC) codes to the next generation of exascale computers.",
       "owner": {
@@ -334,7 +334,7 @@
     },
     {
       "name": "visioncpp",
-      "date_created": "2016-09-05T13:23:40Z",
+      "date_created": "2016-09-05",
       "url": "https://github.com/codeplaysoftware/visioncpp",
       "short_description": "A machine vision library written in SYCL and C++ that shows performance-portable implementation of graph algorithms.",
       "owner": {
@@ -345,7 +345,7 @@
     },
     {
       "name": "oneMD",
-      "date_created": "2021-02-10T23:20:08Z",
+      "date_created": "2021-02-10",
       "url": "https://github.com/allisterb/oneMD",
       "short_description": "Data-parallel molecular dynamics simulator for Intel oneAPI.",
       "owner": {
@@ -356,7 +356,7 @@
     },
     {
       "name": "demotrack",
-      "date_created": "2020-11-03T09:48:03Z",
+      "date_created": "2020-11-03",
       "url": "https://github.com/martinschwinzerl/demotrack",
       "short_description": "No description provided.",
       "owner": {
@@ -367,7 +367,7 @@
     },
     {
       "name": "sixtracklib",
-      "date_created": "2017-02-26T22:24:09Z",
+      "date_created": "2017-02-26",
       "url": "https://github.com/SixTrack/sixtracklib",
       "short_description": "No description provided.",
       "owner": {
@@ -378,7 +378,7 @@
     },
     {
       "name": "SixTrack",
-      "date_created": "2015-08-19T11:10:12Z",
+      "date_created": "2015-08-19",
       "url": "https://github.com/SixTrack/SixTrack",
       "short_description": "No description provided.",
       "owner": {
@@ -389,7 +389,7 @@
     },
     {
       "name": "ftk",
-      "date_created": "2018-03-25T14:31:06Z",
+      "date_created": "2018-03-25",
       "url": "https://github.com/hguo/ftk",
       "short_description": "FTK is a library that scales, simplifies, and delivers feature tracking algorithms for scientific datasets. You may use FTK as ParaView plugins, Python bindings, or command line interface.",
       "owner": {
@@ -400,7 +400,7 @@
     },
     {
       "name": "Vectorization-Parallelism-and-GPGPU-programming",
-      "date_created": "2020-05-22T13:48:03Z",
+      "date_created": "2020-05-22",
       "url": "https://github.com/AD2605/Vectorization-Parallelism-and-GPGPU-programming",
       "short_description": "This repository aims to accelerate various algortihms using vectorization, parallelism and GPGPU programming. Any sort of recommendations, improvements and even contributions are welcome.",
       "owner": {
@@ -411,7 +411,7 @@
     },
     {
       "name": "vecmem",
-      "date_created": "2021-02-05T16:54:11Z",
+      "date_created": "2021-02-05",
       "url": "https://github.com/acts-project/vecmem",
       "short_description": "Vectorised data model base and helper classes.",
       "owner": {
@@ -422,7 +422,7 @@
     },
     {
       "name": "Cabana",
-      "date_created": "2018-09-24T18:36:45Z",
+      "date_created": "2018-09-24",
       "url": "https://github.com/ECP-copa/Cabana",
       "short_description": "Performance-portable library for particle-based simulations.",
       "owner": {
@@ -433,7 +433,7 @@
     },
     {
       "name": "kokkos",
-      "date_created": "2015-04-08T21:55:55Z",
+      "date_created": "2015-04-08",
       "url": "https://github.com/kokkos/kokkos",
       "short_description": "No description provided.",
       "owner": {
@@ -444,7 +444,7 @@
     },
     {
       "name": "alpaka",
-      "date_created": "2014-11-05T11:58:12Z",
+      "date_created": "2014-11-05",
       "url": "https://github.com/alpaka-group/alpaka",
       "type": "framework",
       "short_description": "The alpaka library is a header-only C++14 abstraction library for accelerator development. 78 projects on GitHub reference Alpaka in the project documentation.",
@@ -455,7 +455,7 @@
     },
     {
       "name": "Umpire",
-      "date_created": "2018-03-12T19:13:20Z",
+      "date_created": "2018-03-12",
       "url": "https://github.com/LLNL/Umpire",
       "short_description": "An application-focused API for memory management on NUMA & GPU architectures.",
       "owner": {
@@ -466,7 +466,7 @@
     },
     {
       "name": "taskflow",
-      "date_created": "2018-04-18T13:45:30Z",
+      "date_created": "2018-04-18",
       "url": "https://github.com/taskflow/taskflow",
       "short_description": "A General-purpose Parallel and Heterogeneous Task Programming System.",
       "owner": {
@@ -477,7 +477,7 @@
     },
     {
       "name": "dpctl",
-      "date_created": "2020-07-15T10:50:36Z",
+      "date_created": "2020-07-15",
       "url": "https://github.com/IntelPython/dpctl",
       "short_description": "No description provided.",
       "owner": {
@@ -488,7 +488,7 @@
     },
     {
       "name": "amrex",
-      "date_created": "2017-04-28T19:37:00Z",
+      "date_created": "2017-04-28",
       "url": "https://github.com/AMReX-Codes/amrex",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -499,7 +499,7 @@
     },
     {
       "name": "WarpX",
-      "date_created": "2018-09-27T17:53:35Z",
+      "date_created": "2018-09-27",
       "url": "https://github.com/ECP-WarpX/WarpX",
       "short_description": "Software Framework for Block Structured AMR.",
       "owner": {
@@ -510,7 +510,7 @@
     },
     {
       "name": "TASMANIAN",
-      "date_created": "2017-10-16T17:32:10Z",
+      "date_created": "2017-10-16",
       "url": "https://github.com/ORNL/TASMANIAN",
       "short_description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN.",
       "owner": {
@@ -521,7 +521,7 @@
     },
     {
       "name": "lammps",
-      "date_created": "2013-08-09T17:45:11Z",
+      "date_created": "2013-08-09",
       "url": "https://github.com/lammps/lammps",
       "short_description": "Public development project of the LAMMPS MD software package.",
       "owner": {
@@ -532,7 +532,7 @@
     },
     {
       "name": "KernelFaRer",
-      "date_created": "2021-03-20T15:11:58Z",
+      "date_created": "2021-03-20",
       "url": "https://github.com/jaopaulolc/KernelFaRer",
       "short_description": "KernelFaRer: Replacing Native-Code Idioms with High-Performance Library Calls.",
       "owner": {
@@ -543,7 +543,7 @@
     },
     {
       "name": "gromacs",
-      "date_created": "2009-06-06T10:38:00Z",
+      "date_created": "2009-06-06",
       "url": "https://github.com/gromacs/gromacs",
       "short_description": "No description provided.",
       "owner": {
@@ -554,7 +554,7 @@
     },
     {
       "name": "Nyx",
-      "date_created": "2016-08-02T19:03:48Z",
+      "date_created": "2016-08-02",
       "url": "https://github.com/AMReX-Astro/Nyx",
       "short_description": "LBNL, NREL, Argonne National Labs.",
       "owner": {
@@ -565,7 +565,7 @@
     },
     {
       "name": "acts",
-      "date_created": "2019-03-13T09:44:13Z",
+      "date_created": "2019-03-13",
       "url": "https://github.com/acts-project/acts",
       "short_description": "Experiment-independent toolkit for (charged) particle track reconstruction in (high energy) physics experiments implemented in modern C++.",
       "owner": {
@@ -576,7 +576,7 @@
     },
     {
       "name": "amr-wind",
-      "date_created": "2019-11-04T19:10:43Z",
+      "date_created": "2019-11-04",
       "url": "https://github.com/Exawind/amr-wind",
       "short_description": "AMR-Wind is a massively parallel, block-structured adaptive-mesh, incompressible flow sover for wind turbine and wind farm simulations.",
       "owner": {
@@ -587,7 +587,7 @@
     },
     {
       "name": "tau2",
-      "date_created": "2019-01-28T23:30:34Z",
+      "date_created": "2019-01-28",
       "url": "https://github.com/UO-OACISS/tau2",
       "short_description": "DOE, ECP, and ASC program at University of Oregon.",
       "owner": {
@@ -598,7 +598,7 @@
     },
     {
       "name": "DICOMautomaton",
-      "date_created": "2017-04-27T18:58:03Z",
+      "date_created": "2017-04-27",
       "url": "https://github.com/hdclark/DICOMautomaton",
       "short_description": "DICOMautomaton is a multipurpose tool for analyzing medical physics data with a focus on automation.",
       "owner": {
@@ -609,7 +609,7 @@
     },
     {
       "name": "madgraph4gpu",
-      "date_created": "2020-08-12T14:09:34Z",
+      "date_created": "2020-08-12",
       "url": "https://github.com/madgraph5/madgraph4gpu",
       "short_description": "No description provided.",
       "owner": {
@@ -620,7 +620,7 @@
     },
     {
       "name": "oneoligo",
-      "date_created": "2020-07-08T12:11:36Z",
+      "date_created": "2020-07-08",
       "url": "https://github.com/raja-appuswamy/oneoligo",
       "short_description": "Implementing scalable, heterogeneous-parallel-processing algorithms that can be used quickly and accurate decode digital data stored in synthetic DNA generated by project OligoArchive.",
       "owner": {
@@ -631,7 +631,7 @@
     },
     {
       "name": "miniWeather",
-      "date_created": "2018-07-24T02:29:06Z",
+      "date_created": "2018-07-24",
       "url": "https://github.com/mrnorman/miniWeather",
       "short_description": "A mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures. This uses the YAKL library which is developing SYCL support.",
       "owner": {
@@ -642,7 +642,7 @@
     },
     {
       "name": "exw-virtuals-app",
-      "date_created": "2021-02-26T17:34:25Z",
+      "date_created": "2021-02-26",
       "url": "https://github.com/Exawind/exw-virtuals-app",
       "short_description": "Nalu-Wind is a generalized, unstructured, massively parallel, incompressible flow solver for wind turbine and wind farm simulations.",
       "owner": {
@@ -653,7 +653,7 @@
     },
     {
       "name": "oil_gas_fpga",
-      "date_created": "2020-06-17T14:23:30Z",
+      "date_created": "2020-06-17",
       "url": "https://github.com/menotti/oil_gas_fpga",
       "short_description": ".",
       "owner": {
@@ -664,7 +664,7 @@
     },
     {
       "name": "crossarch-episdet",
-      "date_created": "2021-02-19T11:09:07Z",
+      "date_created": "2021-02-19",
       "url": "https://github.com/rjfnobre/crossarch-episdet",
       "short_description": "High-order exhaustive epistasis detection using K2 Bayesian scoring.",
       "owner": {
@@ -675,7 +675,7 @@
     },
     {
       "name": "Distributed_GPU_LSH_using_SYCL",
-      "date_created": "2021-01-20T12:04:38Z",
+      "date_created": "2021-01-20",
       "url": "https://github.com/SC-SGS/Distributed_GPU_LSH_using_SYCL",
       "short_description": "Scientific Computing (SC) and Simulation of Large Systems (SGS) @ University of Stuttgart.",
       "owner": {
@@ -686,7 +686,7 @@
     },
     {
       "name": "Hydro",
-      "date_created": "2012-07-05T19:15:39Z",
+      "date_created": "2012-07-05",
       "url": "https://github.com/HydroBench/Hydro",
       "short_description": "A 2D Hydro code for benchmarking purpose.",
       "owner": {
@@ -697,7 +697,7 @@
     },
     {
       "name": "PSycloneBench",
-      "date_created": "2018-01-31T12:05:01Z",
+      "date_created": "2018-01-31",
       "url": "https://github.com/stfc/PSycloneBench",
       "short_description": "Various benchmarks used to inform PSyclone optimisations.",
       "owner": {
@@ -708,7 +708,7 @@
     },
     {
       "name": "bio-epistasis-detection",
-      "date_created": "2021-02-13T15:02:39Z",
+      "date_created": "2021-02-13",
       "url": "https://github.com/rafatcampos/bio-epistasis-detection",
       "short_description": "They implement 2nd order epistasis detection, with single-objective optimization, using the K2 score objective function.",
       "owner": {
@@ -719,7 +719,7 @@
     },
     {
       "name": "sypotential-kernel",
-      "date_created": "2020-07-23T21:19:46Z",
+      "date_created": "2020-07-23",
       "url": "https://github.com/Excalibur-SLE/sypotential-kernel",
       "type": "benchmark",
       "short_description": "Efficient evaluation of dense potential kernels on CPUs and GPUs via SYCL.",
@@ -730,7 +730,7 @@
     },
     {
       "name": "sycl-bench",
-      "date_created": "2019-02-01T15:04:36Z",
+      "date_created": "2019-02-01",
       "url": "https://github.com/bcosenza/sycl-bench",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -741,7 +741,7 @@
     },
     {
       "name": "RSBench",
-      "date_created": "2013-12-25T16:32:35Z",
+      "date_created": "2013-12-25",
       "url": "https://github.com/ANL-CESAR/RSBench",
       "type": "benchmark",
       "short_description": "A mini-app to represent the multipole resonance representation lookup cross section algorithm.",
@@ -752,7 +752,7 @@
     },
     {
       "name": "XSBench",
-      "date_created": "2012-10-29T15:40:36Z",
+      "date_created": "2012-10-29",
       "url": "https://github.com/ANL-CESAR/XSBench",
       "type": "benchmark",
       "short_description": "The Monte Carlo Macroscopic Cross Section Lookup Benchmark.",
@@ -763,7 +763,7 @@
     },
     {
       "name": "pixel-standalone",
-      "date_created": "2019-04-09T17:31:43Z",
+      "date_created": "2019-04-09",
       "url": "https://github.com/makortel/pixel-standalone",
       "type": "benchmark",
       "short_description": "The purpose of this test program is to experiment with various \"performance portability\" frameworks and libraries.",
@@ -774,7 +774,7 @@
     },
     {
       "name": "miniBUDE",
-      "date_created": "2020-10-15T12:14:44Z",
+      "date_created": "2020-10-15",
       "url": "https://github.com/UoB-HPC/miniBUDE",
       "type": "unspecified",
       "short_description": "No description provided.",
@@ -785,7 +785,7 @@
     },
     {
       "name": "BabelStream",
-      "date_created": "2015-07-30T12:24:40Z",
+      "date_created": "2015-07-30",
       "url": "https://github.com/UoB-HPC/BabelStream",
       "type": "benchmark",
       "short_description": "STREAM, for lots of devices written in many programming models.",
@@ -796,7 +796,7 @@
     },
     {
       "name": "heat_sycl",
-      "date_created": "2019-11-08T11:50:03Z",
+      "date_created": "2019-11-08",
       "url": "https://github.com/UoB-HPC/heat_sycl",
       "short_description": "Heat code from OpenMP Target training.",
       "owner": {
@@ -807,7 +807,7 @@
     },
     {
       "name": "mixbench",
-      "date_created": "2015-06-25T16:27:29Z",
+      "date_created": "2015-06-25",
       "url": "https://github.com/ekondis/mixbench",
       "type": "benchmark",
       "short_description": "The purpose of this benchmark tool is to evaluate performance bounds of GPUs on mixed operational intensity kernels.",
@@ -818,7 +818,7 @@
     },
     {
       "name": "breadthNPageInSYCL",
-      "date_created": "2020-11-09T02:56:28Z",
+      "date_created": "2020-11-09",
       "url": "https://github.com/benSepanski/breadthNPageInSYCL",
       "short_description": "Breadth-first-search and PageRank in SYCL benchmarked against Galois and CUDA implementations on NVIDIA GPU.",
       "type": "benchmark",
@@ -829,7 +829,7 @@
     },
     {
       "name": "oneAPI-DirectProgramming",
-      "date_created": "2020-08-06T17:44:38Z",
+      "date_created": "2020-08-06",
       "url": "https://github.com/zjin-lcf/oneAPI-DirectProgramming",
       "type": "benchmark",
       "short_description": "This repository contains a collection of data-parallel programs for evaluating oneAPI direct programming. Each program is written with CUDA, SYCL, and OpenMP-4.5 target offloading.",
@@ -840,7 +840,7 @@
     },
     {
       "name": "Rodinia_SYCL",
-      "date_created": "2020-05-08T03:40:59Z",
+      "date_created": "2020-05-08",
       "url": "https://github.com/zjin-lcf/Rodinia_SYCL",
       "type": "benchmark",
       "short_description": "The Rodinia Benchmark in SYCL.",
@@ -851,7 +851,7 @@
     },
     {
       "name": "GWSynth",
-      "date_created": "2021-02-21T10:22:16Z",
+      "date_created": "2021-02-21",
       "url": "https://github.com/AndrewPastrello/GWSynth",
       "short_description": "Synthesizes audio from gravitational waveforms produced by binary black hole inspiral-merger-ringdown simulations.",
       "owner": {
@@ -862,7 +862,7 @@
     },
     {
       "name": "syclacademy",
-      "date_created": "2019-09-13T13:50:13Z",
+      "date_created": "2019-09-13",
       "url": "https://github.com/codeplaysoftware/syclacademy",
       "short_description": "No description provided.",
       "owner": {
@@ -873,7 +873,7 @@
     },
     {
       "name": "MasterThesis",
-      "date_created": "2018-10-05T16:16:13Z",
+      "date_created": "2018-10-05",
       "url": "https://github.com/KrebsFlorian/MasterThesis",
       "short_description": "No description provided.",
       "owner": {
@@ -884,7 +884,7 @@
     },
     {
       "name": "blog-ray",
-      "date_created": "2015-06-16T15:19:34Z",
+      "date_created": "2015-06-16",
       "url": "https://github.com/codeplaysoftware/blog-ray",
       "short_description": "No description provided.",
       "owner": {
@@ -895,7 +895,7 @@
     },
     {
       "name": "SyCLDslashWorkspace",
-      "date_created": "2019-07-26T15:37:40Z",
+      "date_created": "2019-07-26",
       "url": "https://github.com/bjoo/SyCLDslashWorkspace",
       "short_description": "No description provided.",
       "owner": {
@@ -906,7 +906,7 @@
     },
     {
       "name": "TeaLeaf",
-      "date_created": "2016-03-16T11:35:37Z",
+      "date_created": "2016-03-16",
       "url": "https://github.com/UoB-HPC/TeaLeaf",
       "short_description": "No description provided.",
       "owner": {
@@ -917,7 +917,7 @@
     },
     {
       "name": "NativeVoxelizer",
-      "date_created": "2019-05-22T20:11:54Z",
+      "date_created": "2019-05-22",
       "url": "https://github.com/alex-dev/NativeVoxelizer",
       "short_description": "No description provided.",
       "owner": {
@@ -928,7 +928,7 @@
     },
     {
       "name": "fenics_sycl",
-      "date_created": "2020-07-02T08:36:01Z",
+      "date_created": "2020-07-02",
       "url": "https://github.com/chrisrichardson/fenics_sycl",
       "short_description": "No description provided.",
       "owner": {
@@ -939,7 +939,7 @@
     },
     {
       "name": "neutral_sycl",
-      "date_created": "2020-03-09T00:18:14Z",
+      "date_created": "2020-03-09",
       "url": "https://github.com/AndreiCNitu/neutral_sycl",
       "short_description": "No description provided.",
       "owner": {
@@ -950,7 +950,7 @@
     },
     {
       "name": "petsc",
-      "date_created": "2013-03-10T20:55:21Z",
+      "date_created": "2013-03-10",
       "url": "https://github.com/petsc/petsc",
       "short_description": "No description provided.",
       "owner": {
@@ -961,7 +961,7 @@
     },
     {
       "name": "pixeltrack-standalone",
-      "date_created": "2020-01-02T19:05:03Z",
+      "date_created": "2020-01-02",
       "url": "https://github.com/cms-patatrack/pixeltrack-standalone",
       "short_description": "No description provided.",
       "owner": {
@@ -972,7 +972,7 @@
     },
     {
       "name": "path_tracer",
-      "date_created": "2020-11-30T22:26:58Z",
+      "date_created": "2020-11-30",
       "url": "https://github.com/triSYCL/path_tracer",
       "short_description": "No description provided.",
       "owner": {
@@ -983,7 +983,7 @@
     },
     {
       "name": "demotrack_sycl",
-      "date_created": "2020-11-26T07:33:22Z",
+      "date_created": "2020-11-26",
       "url": "https://github.com/martinschwinzerl/demotrack_sycl",
       "short_description": "No description provided.",
       "owner": {
@@ -994,7 +994,7 @@
     },
     {
       "name": "intel_parallel_stable_sort_oneapi",
-      "date_created": "2020-07-09T18:01:30Z",
+      "date_created": "2020-07-09",
       "url": "https://github.com/arthurratz/intel_parallel_stable_sort_oneapi",
       "short_description": "No description provided.",
       "owner": {
@@ -1005,7 +1005,7 @@
     },
     {
       "name": "sycl_buffer_access_benchmark",
-      "date_created": "2018-04-26T16:51:57Z",
+      "date_created": "2018-04-26",
       "url": "https://github.com/f-tischler/sycl_buffer_access_benchmark",
       "short_description": "No description provided.",
       "owner": {
@@ -1016,7 +1016,7 @@
     },
     {
       "name": "SPSBenchtools",
-      "date_created": "2016-10-25T15:23:17Z",
+      "date_created": "2016-10-25",
       "url": "https://github.com/AdamHarries/SPSBenchtools",
       "short_description": "No description provided.",
       "owner": {
@@ -1027,7 +1027,7 @@
     },
     {
       "name": "SYCL-OpenCL-OpenMP-Benchmark",
-      "date_created": "2016-09-18T14:41:56Z",
+      "date_created": "2016-09-18",
       "url": "https://github.com/herculeshcs/SYCL-OpenCL-OpenMP-Benchmark",
       "short_description": "No description provided.",
       "owner": {
@@ -1038,7 +1038,7 @@
     },
     {
       "name": "oneAPI-tests",
-      "date_created": "2019-12-10T14:44:17Z",
+      "date_created": "2019-12-10",
       "url": "https://github.com/RSE-Cambridge/oneAPI-tests",
       "short_description": "No description provided.",
       "owner": {
@@ -1049,7 +1049,7 @@
     },
     {
       "name": "CUDA_to_SYCL_examples",
-      "date_created": "2018-10-09T16:18:06Z",
+      "date_created": "2018-10-09",
       "url": "https://github.com/codeplaysoftware/CUDA_to_SYCL_examples",
       "short_description": "No description provided.",
       "owner": {
@@ -1060,7 +1060,7 @@
     },
     {
       "name": "sycltrain",
-      "date_created": "2019-04-12T19:03:36Z",
+      "date_created": "2019-04-12",
       "url": "https://github.com/kevin-harms/sycltrain",
       "short_description": "No description provided.",
       "owner": {
@@ -1071,7 +1071,7 @@
     },
     {
       "name": "parallel_for",
-      "date_created": "2019-09-09T19:08:09Z",
+      "date_created": "2019-09-09",
       "url": "https://github.com/bjoo/parallel_for",
       "short_description": "No description provided.",
       "owner": {
@@ -1082,7 +1082,7 @@
     },
     {
       "name": "CppBenchGPU",
-      "date_created": "2019-09-04T14:50:38Z",
+      "date_created": "2019-09-04",
       "url": "https://github.com/ashvardanian/CppBenchGPU",
       "short_description": "No description provided.",
       "owner": {
@@ -1093,7 +1093,7 @@
     },
     {
       "name": "dagr",
-      "date_created": "2017-12-14T12:09:14Z",
+      "date_created": "2017-12-14",
       "url": "https://github.com/agozillon/dagr",
       "short_description": "No description provided.",
       "owner": {
@@ -1104,7 +1104,7 @@
     },
     {
       "name": "hipSYCL",
-      "date_created": "2018-07-15T00:12:40Z",
+      "date_created": "2018-07-15",
       "url": "https://github.com/illuhad/hipSYCL",
       "short_description": "No description provided.",
       "owner": {
@@ -1115,7 +1115,7 @@
     },
     {
       "name": "mlirx",
-      "date_created": "2020-02-06T04:54:21Z",
+      "date_created": "2020-02-06",
       "url": "https://github.com/polymage-labs/mlirx",
       "short_description": "No description provided.",
       "owner": {
@@ -1126,7 +1126,7 @@
     },
     {
       "name": "compiler_final",
-      "date_created": "2020-11-17T00:03:15Z",
+      "date_created": "2020-11-17",
       "url": "https://github.com/zhdllwyc/compiler_final",
       "short_description": "No description provided.",
       "owner": {
@@ -1137,7 +1137,7 @@
     },
     {
       "name": "SYCL-PRNG",
-      "date_created": "2018-07-31T07:36:07Z",
+      "date_created": "2018-07-31",
       "url": "https://github.com/Wigner-GPU-Lab/SYCL-PRNG",
       "short_description": "No description provided.",
       "owner": {
@@ -1148,7 +1148,7 @@
     },
     {
       "name": "PWDFT",
-      "date_created": "2019-11-27T20:21:42Z",
+      "date_created": "2019-11-27",
       "url": "https://github.com/ebylaska/PWDFT",
       "short_description": "No description provided.",
       "owner": {
@@ -1159,7 +1159,7 @@
     },
     {
       "name": "syclinfo",
-      "date_created": "2018-08-22T23:19:08Z",
+      "date_created": "2018-08-22",
       "url": "https://github.com/illuhad/syclinfo",
       "short_description": "No description provided.",
       "owner": {
@@ -1170,7 +1170,7 @@
     },
     {
       "name": "FunGPU",
-      "date_created": "2019-04-01T04:16:34Z",
+      "date_created": "2019-04-01",
       "url": "https://github.com/BenjaminTrapani/FunGPU",
       "short_description": "No description provided.",
       "owner": {
@@ -1181,7 +1181,7 @@
     },
     {
       "name": "spack-contrib",
-      "date_created": "2021-01-22T22:26:48Z",
+      "date_created": "2021-01-22",
       "url": "https://github.com/nicholas-sly/spack-contrib",
       "short_description": "No description provided.",
       "owner": {
@@ -1192,7 +1192,7 @@
     },
     {
       "name": "pp",
-      "date_created": "2020-05-02T17:32:16Z",
+      "date_created": "2020-05-02",
       "url": "https://github.com/menotti/pp",
       "short_description": "No description provided.",
       "owner": {
