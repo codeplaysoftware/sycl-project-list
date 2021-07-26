@@ -270,7 +270,7 @@
 
         /**
          * Converts a list of projects into a dictionary that's keys are the year the project was created. The value
-         * is the list of projects for that year.
+         * is the list of projects for that year. Skips projects with missing dates.
          */
         function convertProjectListIntoYearBasedDict(projects) {
             let yearKeyDict = {};
