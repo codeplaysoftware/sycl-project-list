@@ -138,7 +138,7 @@
       "name": "SYCL-DNN",
       "date_created": "2018-05-28T10:59:33Z",
       "url": "https://github.com/codeplaysoftware/SYCL-DNN",
-      "short_description": "SYCL-DNN is a library implementing neural network algorithms written using SYCL",
+      "short_description": "SYCL-DNN is a library implementing neural network algorithms written using SYCL.",
       "owner": {
         "name": "codeplaysoftware",
         "url": "https://github.com/codeplaysoftware"
@@ -149,7 +149,7 @@
       "name": "sycl-blas",
       "date_created": "2016-09-05T13:24:34Z",
       "url": "https://github.com/codeplaysoftware/sycl-blas",
-      "short_description": "An implementation of BLAS using the SYCL open standard",
+      "short_description": "An implementation of BLAS using the SYCL open standard.",
       "owner": {
         "name": "codeplaysoftware",
         "url": "https://github.com/codeplaysoftware"
@@ -193,7 +193,7 @@
       "name": "antares",
       "date_created": "2020-06-24T04:58:46Z",
       "url": "https://github.com/microsoft/antares",
-      "short_description": "Antares is an automatic engine for multi-platform kernel generation and optimization",
+      "short_description": "Antares is an automatic engine for multi-platform kernel generation and optimization.",
       "owner": {
         "name": "microsoft",
         "url": "https://github.com/microsoft"
@@ -215,7 +215,7 @@
       "name": "ga",
       "date_created": "2017-02-17T20:48:30Z",
       "url": "https://github.com/GlobalArrays/ga",
-      "short_description": "This directory contains the Global Arrays (GA), Communications Runtime for Exascale (ComEx) run-time library, Aggregate Remote Memory Copy Interface (ARMCI) run-time library, Memory Allocator (MA), parallel I/O libraries (DRA,EAF,SF), TCGMSG, and TCGMSG-MPI packages bundled together",
+      "short_description": "This directory contains the Global Arrays (GA), Communications Runtime for Exascale (ComEx) run-time library, Aggregate Remote Memory Copy Interface (ARMCI) run-time library, Memory Allocator (MA), parallel I/O libraries (DRA,EAF,SF), TCGMSG, and TCGMSG-MPI packages bundled together.",
       "owner": {
         "name": "GlobalArrays",
         "url": "https://github.com/GlobalArrays"
@@ -226,7 +226,7 @@
       "name": "YAKL",
       "date_created": "2019-04-27T01:55:06Z",
       "url": "https://github.com/mrnorman/YAKL",
-      "short_description": "A simple C++ framework for performance portability and Fortran code porting",
+      "short_description": "A simple C++ framework for performance portability and Fortran code porting.",
       "owner": {
         "name": "mrnorman",
         "url": "https://github.com/mrnorman"
@@ -248,7 +248,7 @@
       "name": "ginkgo",
       "date_created": "2018-01-11T16:14:21Z",
       "url": "https://github.com/ginkgo-project/ginkgo",
-      "short_description": "Ginkgo is a high-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems",
+      "short_description": "Ginkgo is a high-performance linear algebra library for manycore systems, with a focus on sparse solution of linear systems.",
       "owner": {
         "name": "ginkgo-project",
         "url": "https://github.com/ginkgo-project"
@@ -281,7 +281,7 @@
       "name": "gtensor",
       "date_created": "2020-04-13T13:34:48Z",
       "url": "https://github.com/wdmapp/gtensor",
-      "short_description": "\nGtensor is a multi-dimensional array C++14 header-only library for hybrid GPU development\n",
+      "short_description": "Gtensor is a multi-dimensional array C++14 header-only library for hybrid GPU development.",
       "owner": {
         "name": "wdmapp",
         "url": "https://github.com/wdmapp"
@@ -303,7 +303,7 @@
       "name": "Grid",
       "date_created": "2015-03-04T02:30:11Z",
       "url": "https://github.com/paboyle/Grid",
-      "short_description": "This library provides data parallel C++ container classes with internal memory layout that is transformed to map efficiently to SIMD architectures",
+      "short_description": "This library provides data parallel C++ container classes with internal memory layout that is transformed to map efficiently to SIMD architectures.",
       "owner": {
         "name": "paboyle",
         "url": "https://github.com/paboyle"
@@ -314,7 +314,7 @@
       "name": "OP2-Common",
       "date_created": "2011-06-03T15:36:25Z",
       "url": "https://github.com/OP-DSL/OP2-Common",
-      "short_description": "OP2 is an API with associated libraries and preprocessors to generate parallel executables for applications on unstructured grids",
+      "short_description": "OP2 is an API with associated libraries and preprocessors to generate parallel executables for applications on unstructured grids.",
       "owner": {
         "name": "OP-DSL",
         "url": "https://github.com/OP-DSL"
@@ -336,7 +336,7 @@
       "name": "visioncpp",
       "date_created": "2016-09-05T13:23:40Z",
       "url": "https://github.com/codeplaysoftware/visioncpp",
-      "short_description": "A machine vision library written in SYCL and C++ that shows performance-portable implementation of graph algorithms",
+      "short_description": "A machine vision library written in SYCL and C++ that shows performance-portable implementation of graph algorithms.",
       "owner": {
         "name": "codeplaysoftware",
         "url": "https://github.com/codeplaysoftware"
@@ -347,7 +347,7 @@
       "name": "oneMD",
       "date_created": "2021-02-10T23:20:08Z",
       "url": "https://github.com/allisterb/oneMD",
-      "short_description": "Data-parallel molecular dynamics simulator for Intel oneAPI",
+      "short_description": "Data-parallel molecular dynamics simulator for Intel oneAPI.",
       "owner": {
         "name": "allisterb",
         "url": "https://github.com/allisterb"
@@ -402,7 +402,7 @@
       "name": "Vectorization-Parallelism-and-GPGPU-programming",
       "date_created": "2020-05-22T13:48:03Z",
       "url": "https://github.com/AD2605/Vectorization-Parallelism-and-GPGPU-programming",
-      "short_description": "This repository aims to accelerate various algortihms using vectorization, parallelism and GPGPU programming. Any sort of recommendations, improvements and even contributions are welcome.\u00a0",
+      "short_description": "This repository aims to accelerate various algortihms using vectorization, parallelism and GPGPU programming. Any sort of recommendations, improvements and even contributions are welcome.",
       "owner": {
         "name": "AD2605",
         "url": "https://github.com/AD2605"
@@ -413,7 +413,7 @@
       "name": "vecmem",
       "date_created": "2021-02-05T16:54:11Z",
       "url": "https://github.com/acts-project/vecmem",
-      "short_description": "Vectorised data model base and helper classes.\u00a0",
+      "short_description": "Vectorised data model base and helper classes.",
       "owner": {
         "name": "acts-project",
         "url": "https://github.com/acts-project"
@@ -424,7 +424,7 @@
       "name": "Cabana",
       "date_created": "2018-09-24T18:36:45Z",
       "url": "https://github.com/ECP-copa/Cabana",
-      "short_description": "Performance-portable library for particle-based simulations",
+      "short_description": "Performance-portable library for particle-based simulations.",
       "owner": {
         "name": "ECP-copa",
         "url": "https://github.com/ECP-copa"
@@ -457,7 +457,7 @@
       "name": "Umpire",
       "date_created": "2018-03-12T19:13:20Z",
       "url": "https://github.com/LLNL/Umpire",
-      "short_description": "An application-focused API for memory management on NUMA & GPU architectures",
+      "short_description": "An application-focused API for memory management on NUMA & GPU architectures.",
       "owner": {
         "name": "LLNL",
         "url": "https://github.com/LLNL"
@@ -468,7 +468,7 @@
       "name": "taskflow",
       "date_created": "2018-04-18T13:45:30Z",
       "url": "https://github.com/taskflow/taskflow",
-      "short_description": "A General-purpose Parallel and Heterogeneous Task Programming System",
+      "short_description": "A General-purpose Parallel and Heterogeneous Task Programming System.",
       "owner": {
         "name": "taskflow",
         "url": "https://github.com/taskflow"
@@ -501,7 +501,7 @@
       "name": "WarpX",
       "date_created": "2018-09-27T17:53:35Z",
       "url": "https://github.com/ECP-WarpX/WarpX",
-      "short_description": "Software Framework for Block Structured AMR",
+      "short_description": "Software Framework for Block Structured AMR.",
       "owner": {
         "name": "ECP-WarpX",
         "url": "https://github.com/ECP-WarpX"
@@ -512,7 +512,7 @@
       "name": "TASMANIAN",
       "date_created": "2017-10-16T17:32:10Z",
       "url": "https://github.com/ORNL/TASMANIAN",
-      "short_description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN\u00a0",
+      "short_description": "The Toolkit for Adaptive Stochastic Modeling and Non-Intrusive ApproximatioN.",
       "owner": {
         "name": "ORNL",
         "url": "https://github.com/ORNL"
@@ -523,7 +523,7 @@
       "name": "lammps",
       "date_created": "2013-08-09T17:45:11Z",
       "url": "https://github.com/lammps/lammps",
-      "short_description": "Public development project of the LAMMPS MD software package\u00a0",
+      "short_description": "Public development project of the LAMMPS MD software package.",
       "owner": {
         "name": "lammps",
         "url": "https://github.com/lammps"
@@ -534,7 +534,7 @@
       "name": "KernelFaRer",
       "date_created": "2021-03-20T15:11:58Z",
       "url": "https://github.com/jaopaulolc/KernelFaRer",
-      "short_description": "KernelFaRer: Replacing Native-Code Idioms with High-Performance Library Calls\u00a0",
+      "short_description": "KernelFaRer: Replacing Native-Code Idioms with High-Performance Library Calls.",
       "owner": {
         "name": "jaopaulolc",
         "url": "https://github.com/jaopaulolc"
@@ -556,7 +556,7 @@
       "name": "Nyx",
       "date_created": "2016-08-02T19:03:48Z",
       "url": "https://github.com/AMReX-Astro/Nyx",
-      "short_description": "LBNL, NREL, Argonne National Labs",
+      "short_description": "LBNL, NREL, Argonne National Labs.",
       "owner": {
         "name": "AMReX-Astro",
         "url": "https://github.com/AMReX-Astro"
@@ -567,7 +567,7 @@
       "name": "acts",
       "date_created": "2019-03-13T09:44:13Z",
       "url": "https://github.com/acts-project/acts",
-      "short_description": "Experiment-independent toolkit for (charged) particle track reconstruction in (high energy) physics experiments implemented in modern C++",
+      "short_description": "Experiment-independent toolkit for (charged) particle track reconstruction in (high energy) physics experiments implemented in modern C++.",
       "owner": {
         "name": "acts-project",
         "url": "https://github.com/acts-project"
@@ -589,7 +589,7 @@
       "name": "tau2",
       "date_created": "2019-01-28T23:30:34Z",
       "url": "https://github.com/UO-OACISS/tau2",
-      "short_description": "DOE, ECP, and ASC program at University of Oregon",
+      "short_description": "DOE, ECP, and ASC program at University of Oregon.",
       "owner": {
         "name": "UO-OACISS",
         "url": "https://github.com/UO-OACISS"
@@ -600,7 +600,7 @@
       "name": "DICOMautomaton",
       "date_created": "2017-04-27T18:58:03Z",
       "url": "https://github.com/hdclark/DICOMautomaton",
-      "short_description": "DICOMautomaton is a multipurpose tool for analyzing medical physics data with a focus on automation",
+      "short_description": "DICOMautomaton is a multipurpose tool for analyzing medical physics data with a focus on automation.",
       "owner": {
         "name": "hdclark",
         "url": "https://github.com/hdclark"
@@ -622,7 +622,7 @@
       "name": "oneoligo",
       "date_created": "2020-07-08T12:11:36Z",
       "url": "https://github.com/raja-appuswamy/oneoligo",
-      "short_description": "Implementing scalable, heterogeneous-parallel-processing algorithms that can be used quickly and accurate decode digital data stored in synthetic DNA generated by project OligoArchive",
+      "short_description": "Implementing scalable, heterogeneous-parallel-processing algorithms that can be used quickly and accurate decode digital data stored in synthetic DNA generated by project OligoArchive.",
       "owner": {
         "name": "raja-appuswamy",
         "url": "https://github.com/raja-appuswamy"
@@ -633,7 +633,7 @@
       "name": "miniWeather",
       "date_created": "2018-07-24T02:29:06Z",
       "url": "https://github.com/mrnorman/miniWeather",
-      "short_description": "A mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures. This uses the YAKL library which is developing SYCL support",
+      "short_description": "A mini app simulating weather-like flows for training in parallelizing accelerated HPC architectures. This uses the YAKL library which is developing SYCL support.",
       "owner": {
         "name": "mrnorman",
         "url": "https://github.com/mrnorman"
@@ -644,7 +644,7 @@
       "name": "exw-virtuals-app",
       "date_created": "2021-02-26T17:34:25Z",
       "url": "https://github.com/Exawind/exw-virtuals-app",
-      "short_description": "Nalu-Wind is a generalized, unstructured, massively parallel, incompressible flow solver for wind turbine and wind farm simulations",
+      "short_description": "Nalu-Wind is a generalized, unstructured, massively parallel, incompressible flow solver for wind turbine and wind farm simulations.",
       "owner": {
         "name": "Exawind",
         "url": "https://github.com/Exawind"
@@ -655,7 +655,7 @@
       "name": "oil_gas_fpga",
       "date_created": "2020-06-17T14:23:30Z",
       "url": "https://github.com/menotti/oil_gas_fpga",
-      "short_description": "\n\n",
+      "short_description": ".",
       "owner": {
         "name": "menotti",
         "url": "https://github.com/menotti"
@@ -666,7 +666,7 @@
       "name": "crossarch-episdet",
       "date_created": "2021-02-19T11:09:07Z",
       "url": "https://github.com/rjfnobre/crossarch-episdet",
-      "short_description": "High-order exhaustive epistasis detection using K2 Bayesian scoring",
+      "short_description": "High-order exhaustive epistasis detection using K2 Bayesian scoring.",
       "owner": {
         "name": "rjfnobre",
         "url": "https://github.com/rjfnobre"
@@ -677,7 +677,7 @@
       "name": "Distributed_GPU_LSH_using_SYCL",
       "date_created": "2021-01-20T12:04:38Z",
       "url": "https://github.com/SC-SGS/Distributed_GPU_LSH_using_SYCL",
-      "short_description": "Scientific Computing (SC) and Simulation of Large Systems (SGS) @ University of Stuttgart",
+      "short_description": "Scientific Computing (SC) and Simulation of Large Systems (SGS) @ University of Stuttgart.",
       "owner": {
         "name": "SC-SGS",
         "url": "https://github.com/SC-SGS"
@@ -688,7 +688,7 @@
       "name": "Hydro",
       "date_created": "2012-07-05T19:15:39Z",
       "url": "https://github.com/HydroBench/Hydro",
-      "short_description": "A 2D Hydro code for benchmarking purpose\u00a0",
+      "short_description": "A 2D Hydro code for benchmarking purpose.",
       "owner": {
         "name": "HydroBench",
         "url": "https://github.com/HydroBench"
@@ -699,7 +699,7 @@
       "name": "PSycloneBench",
       "date_created": "2018-01-31T12:05:01Z",
       "url": "https://github.com/stfc/PSycloneBench",
-      "short_description": "Various benchmarks used to inform PSyclone optimisations",
+      "short_description": "Various benchmarks used to inform PSyclone optimisations.",
       "owner": {
         "name": "stfc",
         "url": "https://github.com/stfc"
@@ -722,7 +722,7 @@
       "date_created": "2020-07-23T21:19:46Z",
       "url": "https://github.com/Excalibur-SLE/sypotential-kernel",
       "type": "benchmark",
-      "short_description": "Efficient evaluation of dense potential kernels on CPUs and GPUs via SYCL",
+      "short_description": "Efficient evaluation of dense potential kernels on CPUs and GPUs via SYCL.",
       "owner": {
         "name": "Excalibur-SLE",
         "url": "https://github.com/Excalibur-SLE"
@@ -744,7 +744,7 @@
       "date_created": "2013-12-25T16:32:35Z",
       "url": "https://github.com/ANL-CESAR/RSBench",
       "type": "benchmark",
-      "short_description": "A mini-app to represent the multipole resonance representation lookup cross section algorithm",
+      "short_description": "A mini-app to represent the multipole resonance representation lookup cross section algorithm.",
       "owner": {
         "name": "ANL-CESAR",
         "url": "https://github.com/ANL-CESAR"
@@ -755,7 +755,7 @@
       "date_created": "2012-10-29T15:40:36Z",
       "url": "https://github.com/ANL-CESAR/XSBench",
       "type": "benchmark",
-      "short_description": "The Monte Carlo Macroscopic Cross Section Lookup Benchmark",
+      "short_description": "The Monte Carlo Macroscopic Cross Section Lookup Benchmark.",
       "owner": {
         "name": "ANL-CESAR",
         "url": "https://github.com/ANL-CESAR"
@@ -788,7 +788,7 @@
       "date_created": "2015-07-30T12:24:40Z",
       "url": "https://github.com/UoB-HPC/BabelStream",
       "type": "benchmark",
-      "short_description": "STREAM, for lots of devices written in many programming models",
+      "short_description": "STREAM, for lots of devices written in many programming models.",
       "owner": {
         "name": "UoB-HPC",
         "url": "https://github.com/UoB-HPC"
@@ -798,7 +798,7 @@
       "name": "heat_sycl",
       "date_created": "2019-11-08T11:50:03Z",
       "url": "https://github.com/UoB-HPC/heat_sycl",
-      "short_description": "Heat code from OpenMP Target training",
+      "short_description": "Heat code from OpenMP Target training.",
       "owner": {
         "name": "UoB-HPC",
         "url": "https://github.com/UoB-HPC"
@@ -810,7 +810,7 @@
       "date_created": "2015-06-25T16:27:29Z",
       "url": "https://github.com/ekondis/mixbench",
       "type": "benchmark",
-      "short_description": "The purpose of this benchmark tool is to evaluate performance bounds of GPUs on mixed operational intensity kernels",
+      "short_description": "The purpose of this benchmark tool is to evaluate performance bounds of GPUs on mixed operational intensity kernels.",
       "owner": {
         "name": "ekondis",
         "url": "https://github.com/ekondis"
@@ -820,7 +820,7 @@
       "name": "breadthNPageInSYCL",
       "date_created": "2020-11-09T02:56:28Z",
       "url": "https://github.com/benSepanski/breadthNPageInSYCL",
-      "short_description": "Breadth-first-search and PageRank in SYCL benchmarked against Galois and CUDA implementations on NVIDIA GPU",
+      "short_description": "Breadth-first-search and PageRank in SYCL benchmarked against Galois and CUDA implementations on NVIDIA GPU.",
       "type": "benchmark",
       "owner": {
         "name": "benSepanski",
@@ -843,7 +843,7 @@
       "date_created": "2020-05-08T03:40:59Z",
       "url": "https://github.com/zjin-lcf/Rodinia_SYCL",
       "type": "benchmark",
-      "short_description": "The Rodinia Benchmark in SYCL",
+      "short_description": "The Rodinia Benchmark in SYCL.",
       "owner": {
         "name": "zjin-lcf",
         "url": "https://github.com/zjin-lcf"
@@ -853,7 +853,7 @@
       "name": "GWSynth",
       "date_created": "2021-02-21T10:22:16Z",
       "url": "https://github.com/AndrewPastrello/GWSynth",
-      "short_description": "Synthesizes audio from gravitational waveforms produced by binary black hole inspiral-merger-ringdown simulations",
+      "short_description": "Synthesizes audio from gravitational waveforms produced by binary black hole inspiral-merger-ringdown simulations.",
       "owner": {
         "name": "AndrewPastrello",
         "url": "https://github.com/AndrewPastrello"
