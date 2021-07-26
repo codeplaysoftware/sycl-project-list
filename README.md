@@ -5,7 +5,8 @@ software etc.
 
 ## View Projects
 
-[CLICK HERE TO VIEW PROJECTS IN DIFFERENT VIEWS](https://scottstraughan.github.io/sycl-project-list/)
+* [Accumulation Graph of SYCL Projects/Year](https://scottstraughan.github.io/sycl-project-list/views/accumulated-projects-line-graph.html)
+* Coming Soon!
 
 You can view projects by opening the ```projects.json``` file or visiting 
 [SYCL Project List](https://scottstraughan.github.io/sycl-project-list/) to view the GitHub pages rendered views.
