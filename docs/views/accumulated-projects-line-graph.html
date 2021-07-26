@@ -276,6 +276,9 @@
             let yearKeyDict = {};
 
             for (const project of projects) {
+                if (project['date_created'].length === 0)
+                    continue;
+
                 const date = new Date(Date.parse(project['date_created']));
                 const key = date.getFullYear();
 
