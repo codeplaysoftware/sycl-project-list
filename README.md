@@ -3,13 +3,12 @@
 This is simply a curated list of SYCL based projects. It is designed to be used in other services, charting 
 software etc.
 
-## View Projects
+## List of Views
+
+Below is a short list of different views using the ```projects.json``` file as its data source.
 
 * [Accumulation Graph of SYCL Projects/Year](https://scottstraughan.github.io/sycl-project-list/views/accumulated-projects-line-graph.html)
 * Coming Soon!
-
-You can view projects by opening the ```projects.json``` file or visiting 
-[SYCL Project List](https://scottstraughan.github.io/sycl-project-list/) to view the GitHub pages rendered views.
 
 ## Add A Project
 
