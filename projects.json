@@ -1,7 +1,282 @@
 {
-  "total_projects": 124,
-  "last_updated": "2021-19-07T07:36:16Z",
+  "total_projects": 134,
+  "last_updated": "2021-14-09T07:36:16Z",
   "projects": [
+    {
+      "name": "Trilinos",
+      "date_created": "2021-07-23",
+      "url": "https://github.com/trilinos/Trilinos",
+      "type": "unspecified",
+      "short_description": "The Trilinos Project is an effort to develop algorithms and enabling technologies within an object-oriented software framework for the solution of large-scale, complex multi-physics engineering and scientific problems. A unique design feature of Trilinos is its focus on packages.",
+      "owner": {
+        "name": "brian-kelley",
+        "url": "https://github.com/brian-kelley"
+      }
+    },
+    {
+      "name": "ARTEMIS",
+      "date_created": "2021-08-12",
+      "url": "https://github.com/RevathiJambunathan/artemis",
+      "type": "unspecified",
+      "short_description": "Distributed Performance-portable Stencil Compuitation",
+      "owner": {
+        "name": "ax3l",
+        "url": "https://github.com/ax3l"
+      }
+    },
+    {
+      "name": "Brick Lib",
+      "date_created": "2021-08-15",
+      "url": "https://github.com/CtopCsUtahEdu/bricklib",
+      "type": "unspecified",
+      "short_description": "Distributed Performance-portable Stencil Compuitation",
+      "owner": {
+        "name": "ztuowen",
+        "url": "https://github.com/ztuowen"
+      }
+    },
+    {
+      "name": "RAJA",
+      "date_created": "2021-08-20",
+      "url": "https://github.com/LLNL/RAJA",
+      "type": "unspecified",
+      "short_description": "RAJA Performance Portability Layer (C++)",
+      "owner": {
+        "name": "rhornung67",
+        "url": "https://github.com/rhornung67"
+      }
+    },
+    {
+      "name": "ToUCH modules and related material",
+      "date_created": "2021-08-14",
+      "url": "https://github.com/TeachingUndergradsCHC/modules",
+      "type": "unspecified",
+      "short_description": "ToUCH modules and related material",
+      "owner": {
+        "name": "bkmgit",
+        "url": "https://github.com/bkmgit"
+      }
+    },
+    {
+      "name": "ToUCH modules and related material",
+      "date_created": "2021-08-14",
+      "url": "https://github.com/TeachingUndergradsCHC/modules",
+      "type": "unspecified",
+      "short_description": "ToUCH modules and related material",
+      "owner": {
+        "name": "bkmgit",
+        "url": "https://github.com/bkmgit"
+      }
+    },
+    {
+      "name": "Storage API",
+      "date_created": "2021-08-27",
+      "url": "https://github.com/Michoumichmich/SYCL_FS",
+      "type": "unspecified",
+      "short_description": "Storage API for SYCL/CUDA with codec support and Asynchronous Remote Procedure Calls",
+      "owner": {
+        "name": "Michoumichmich",
+        "url": "https://github.com/Michoumichmich/"
+      }
+    },
+    {
+      "name": "Everythings Reduced - reduction kernels",
+      "date_created": "2021-09-03",
+      "url": "https://github.com/UoB-HPC/everythingsreduced",
+      "type": "unspecified",
+      "short_description": "This is a collection of key reduction kernel patterns collated from other benchmarks. ",
+      "owner": {
+        "name": "tomdeakin",
+        "url": "https://github.com/tomdeakin"
+      }
+    },
+    {
+      "name": "Simple MD",
+      "date_created": "2021-09-05",
+      "url": "https://github.com/VCCA2021HPC/simple-md",
+      "type": "unspecified",
+      "short_description": "Basic molecular dynamics implementation",
+      "owner": {
+        "name": "Ikasiamah",
+        "url": "https://github.com/Ikasiamah"
+      }
+    },
+    {
+      "name": "Simple MD",
+      "date_created": "2021-09-04",
+      "url": "https://github.com/VCCA2021HPC/simple-md",
+      "type": "unspecified",
+      "short_description": "Basic molecular dynamics implementation",
+      "owner": {
+        "name": "Ikasiamah",
+        "url": "https://github.com/Ikasiamah"
+      }
+    },
+    {
+      "name": "ZPC",
+      "date_created": "2021-09-04",
+      "url": "https://github.com/zenustech/tpls",
+      "type": "unspecified",
+      "short_description": "Third party libraries for zensim",
+      "owner": {
+        "name": "littlemine",
+        "url": "https://github.com/littlemine"
+      }
+    },
+    {
+      "name": "ZPC",
+      "date_created": "2021-09-04",
+      "url": "https://github.com/zenustech/zpc",
+      "type": "unspecified",
+      "short_description": "Zenus Simulation is the codebase zensim maintained by Zenus Tech, which delivers great parallel computing efficiency for physics-based simulations within a shared-memory heterogeneous architecture through a unified programming interface on multiple compute backends.",
+      "owner": {
+        "name": "littlemine",
+        "url": "https://github.com/littlemine"
+      }
+    },
+    {
+      "name": "PyTorch",
+      "date_created": "2021-09-08",
+      "url": "https://github.com/pytorch/pytorch",
+      "type": "unspecified",
+      "short_description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration ",
+      "owner": {
+        "name": "chengjunlu",
+        "url": "https://github.com/chengjunlu"
+      }
+    },
+    {
+      "name": "libspmv",
+      "date_created": "2021-09-10",
+      "url": "https://github.com/Excalibur-SLE/spmv",
+      "type": "unspecified",
+      "short_description": "Distributed sparse mat-vec library with CG solver",
+      "owner": {
+        "name": "athelaf",
+        "url": "https://github.com/athelaf"
+      }
+    },
+    {
+      "name": "ZENO node system",
+      "date_created": "2021-09-12",
+      "url": "https://github.com/zenustech/zeno",
+      "type": "unspecified",
+      "short_description": "Open-source node system framework, to change your algorithmic code into useful tools to create much more complicated simulations!",
+      "owner": {
+        "name": "archibate",
+        "url": "https://github.com/archibate"
+      }
+    },
+    {
+      "name": "Multigrid",
+      "date_created": "2021-01-13",
+      "url": "https://github.com/nikhilTkur/Multigrid_Nikhil_C-",
+      "type": "unspecified",
+      "short_description": "This repo consists of the C++code for Multigrid (includes SYCL and oneMKL)",
+      "owner": {
+        "name": "nikhilTkur",
+        "url": "https://github.com/nikhilTkur"
+      }
+    },
+    {
+      "name": "LU Decomposition in SYCL",
+      "date_created": "2021-08-13",
+      "url": "https://github.com/FMarno/SYCL-LU-Decomposition",
+      "type": "unspecified",
+      "short_description": "This code example first creates a randomised electronic circuit, then `solves’ the circuit by calculating the voltage and current over each component. This is acheived by converting a description of the circuit to a linear system of equations and then solving that system.",
+      "owner": {
+        "name": "FMarno",
+        "url": "https://github.com/FMarno"
+      }
+    },
+    {
+      "name": "Parallel Lattice Boltzmann",
+      "date_created": "2021-08-20",
+      "url": "https://github.com/Ouadio/Parallel-Lattice-Boltzmann-SYCL",
+      "type": "unspecified",
+      "short_description": "A SYCL based parallel implemetation of Lattice Boltzmann Method (2D Case) ",
+      "owner": {
+        "name": "Ouadio",
+        "url": "https://github.com/Ouadio"
+      }
+    },
+    {
+      "name": "SYCL Learning Workshop",
+      "date_created": "2021-06-14",
+      "url": "https://github.com/ENCCS/sycl-workshop",
+      "type": "unspecified",
+      "short_description": "SYCL materials for ENCCS workshop",
+      "owner": {
+        "name": "robertodr",
+        "url": "https://github.com/robertodr"
+      }
+    },
+    {
+      "name": "BLAS Routines",
+      "date_created": "2021-06-14",
+      "url": "https://github.com/AD2605/BLAS",
+      "type": "unspecified",
+      "short_description": "This is a study of GPU architecture via implementing various BLAS routines",
+      "owner": {
+        "name": "AD2605",
+        "url": "https://github.com/AD2605"
+      }
+    },
+    {
+      "name": "SYCL Gemm",
+      "date_created": "2021-08-03",
+      "url": "https://github.com/UoB-HPC/sycl_dgemm",
+      "type": "unspecified",
+      "short_description": "Gemm implementation",
+      "owner": {
+        "name": "tomdeakin",
+        "url": "https://github.com/tomdeakin"
+      }
+    },
+    {
+      "name": "HPC Patterns",
+      "date_created": "2021-08-03",
+      "url": "https://github.com/argonne-lcf/HPC-Patterns",
+      "type": "unspecified",
+      "short_description": "Provide examples on how to use GPU with Parallel Programing Paradigm (MPI, OpenMP, SYCL)",
+      "owner": {
+        "name": "TApplencourt",
+        "url": "https://github.com/TApplencourt"
+      }
+    },
+    {
+      "name": "Spectral elements method solver",
+      "date_created": "2021-02-03",
+      "url": "https://github.com/guillaumetousignant/SYCL_test",
+      "type": "unspecified",
+      "short_description": "Spectral elements method solver written with SYCL.",
+      "owner": {
+        "name": "guillaumetousignant",
+        "url": "https://github.com/guillaumetousignant"
+      }
+    },
+    {
+      "name": "Many As One",
+      "date_created": "2021-09-03",
+      "url": "https://github.com/research-note/Many-as-One",
+      "type": "unspecified",
+      "short_description": "Neural networks framework heterogeneous, parallel supercomputed on superclusters distrubuted network. ",
+      "owner": {
+        "name": "paranlee",
+        "url": "https://github.com/paranlee"
+      }
+    },
+    {
+      "name": "SYCL Reduction",
+      "date_created": "2021-04-22",
+      "url": "https://gitlab.com/NERSC/nersc-proxies/sycl-reduction",
+      "type": "unspecified",
+      "short_description": "Implement some versions of sycl reduction",
+      "owner": {
+        "name": "amanda",
+        "url": "https://gitlab.com/amandasd"
+      }
+    },
     {
       "name": "Multigrid_Nikhil_C-",
       "date_created": "2021-01-24",
