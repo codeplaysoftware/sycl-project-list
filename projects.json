@@ -1,7 +1,161 @@
 {
-  "total_projects": 134,
-  "last_updated": "2021-14-09T07:36:16Z",
+  "total_projects": 148,
+  "last_updated": "2021-29-11T07:36:16Z",
   "projects": [
+   {
+      "name": "Librett",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/victor-anisimov/Librett",
+      "type": "unspecified",
+      "short_description": "LibreTT is a free Tensor Transpose Library for nVidia and Intel GPU accelerators.",
+      "owner": {
+        "name": "victor-anisimov",
+        "url": "https://github.com/victor-anisimov"
+      }
+    },
+    {
+      "name": "BOLT",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/facebookincubator/BOLT",
+      "type": "unspecified",
+      "short_description": "Binary Optimization and Layout Tool - A linux command-line utility used for optimizing performance of binaries.",
+      "owner": {
+        "name": "lattner",
+        "url": "https://github.com/lattner"
+      }
+    },
+    {
+      "name": "Specula",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/Nedra1998/Specula",
+      "type": "unspecified",
+      "short_description": "A GPU accelerated C++ graphics renderer library.",
+      "owner": {
+        "name": "Nedra1998",
+        "url": "https://github.com/Nedra1998"
+      }
+    },
+    {
+      "name": "PLSSVM",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/SC-SGS/PLSSVM",
+      "type": "unspecified",
+      "short_description": "Implementation of a parallel least-squares support-vector machine using multiple backends for different GPU vendors.",
+      "owner": {
+        "name": "breyerml",
+        "url": "https://github.com/breyerml"
+      }
+    },
+    {
+      "name": "ndzip",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/fknorr/ndzip",
+      "type": "unspecified",
+      "short_description": "ndzip compresses and decompresses multidimensional univariate grids of single- and double-precision IEEE 754 floating-point data.",
+      "owner": {
+        "name": "fknorr",
+        "url": "https://github.com/fknorr"
+      }
+    },
+    {
+      "name": "PSCMC",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/JianyuanXiao/PSCMC",
+      "type": "unspecified",
+      "short_description": "The SCMC and PSCMC programming language is designed for multi-platform parallel programming. It is a DSL based on the scheme programming language which is a dialect of lisp. Currently it support C, OpenMP, CUDA, OpenCL, SWMC, COI, HIP and SYCL backends.",
+      "owner": {
+        "name": "JianyuanXiao",
+        "url": "https://github.com/JianyuanXiao"
+      }
+    },
+    {
+      "name": "desul",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/desul/desul",
+      "type": "unspecified",
+      "short_description": "The DESUL organization and project will contain open source common core components for DOE applications and libraries with a focus on C++ development and standardization. This is intended to cover high performance computing system software and development libraries and helpers as well as possibly fundamental computer science algorithms and basic components and examples and/or proxy codes related to the other components. It is not intended to cover scientific applications, or applications in general with the exception of development tools and scripts.",
+      "owner": {
+        "name": "dalg24",
+        "url": "https://github.com/dalg24"
+      }
+    },
+    {
+      "name": "OPS",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/OP-DSL/OPS",
+      "type": "unspecified",
+      "short_description": "OPS is an API with associated libraries and preprocessors to generate parallel executables for applications on mulit-block structured meshes.",
+      "owner": {
+        "name": "gihanmudalige",
+        "url": "https://github.com/gihanmudalige"
+      }
+    },
+    {
+      "name": "TRACC",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/acts-project/traccc",
+      "type": "unspecified",
+      "short_description": "Demonstrator tracking chain on accelerators.",
+      "owner": {
+        "name": "beomki-yeo",
+        "url": "https://github.com/beomki-yeo"
+      }
+    },
+    {
+      "name": "Eigen Value",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/itzmeanjan/eigen_value",
+      "type": "unspecified",
+      "short_description": "Parallel Eigen value(s)/ vector(s) Computation on Accelerator.",
+      "owner": {
+        "name": "itzmeanjan",
+        "url": "https://github.com/itzmeanjan"
+      }
+    },
+    {
+      "name": "UNINETT Sigma2",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/UNINETTSigma2/documentation",
+      "type": "unspecified",
+      "short_description": "SYCL documentation for users of the Norwegian academic high performance computing and storage services.",
+      "owner": {
+        "name": "stigrj",
+        "url": "https://github.com/stigrj"
+      }
+    },
+    {
+      "name": "Scikit-learn",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/intel/scikit-learn-intelex",
+      "type": "unspecified",
+      "short_description": "Intel(R) Extension for Scikit-learn is a seamless way to speed up your Scikit-learn application ",
+      "owner": {
+        "name": "vlad-nazarov",
+        "url": "https://github.com/vlad-nazarov"
+      }
+    },
+    {
+      "name": "HeCBench",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/zjin-lcf/HeCBench",
+      "type": "unspecified",
+      "short_description": "This repository contains a collection of Heterogeneous Computing benchmarks written with CUDA, HIP, SYCL (DPC++), and OpenMP-4.5 target offloading for studying performance, portability, and productivity.",
+      "owner": {
+        "name": "zjin-lcf",
+        "url": "https://github.com/zjin-lcf"
+      }
+    },
+    {
+      "name": "CHIP-SV",
+      "date_created": "2021-11-29",
+      "url": "https://github.com/CHIP-SPV/chip-spv",
+      "type": "unspecified",
+      "short_description": "CHIP-SPV is a HIP implementation that abstracts HIP API, providing a set of base classes that can be derived from to implement an additional, SPIR-V capable backend on which to execute HIP calls. Currently CHIP-SPV OpenCL and Level Zero as backends. This project is a result of HIPCL and HIPLZ projects.",
+      "owner": {
+        "name": "pvelesko",
+        "url": "https://github.com/pvelesko"
+      }
+    },
     {
       "name": "Trilinos",
       "date_created": "2021-07-23",
