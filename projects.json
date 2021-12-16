@@ -1,8 +1,30 @@
 {
-  "total_projects": 148,
-  "last_updated": "2021-29-11T07:36:16Z",
+  "total_projects": 150,
+  "last_updated": "2021-15-12T07:36:16Z",
   "projects": [
    {
+      "name": "Boids Simulation",
+      "date_created": "2021-12-05",
+      "url": "https://github.com/imwhocodes/boids-simulations-sycld",
+      "type": "unspecified",
+      "short_description": "Evaluation of a memory reduction compiler pass for stencil codes.",
+      "owner": {
+        "name": "imwhocodes",
+        "url": "https://github.com/imwhocodes"
+      }
+    },
+    {
+      "name": "Memory Reduction",
+      "date_created": "2021-12-05",
+      "url": "https://github.com/robertszafa/sycl-kernels-mem-reduced",
+      "type": "unspecified",
+      "short_description": "Evaluation of a memory reduction compiler pass for stencil codes.",
+      "owner": {
+        "name": "robertszafa",
+        "url": "https://github.com/robertszafa"
+      }
+    },
+    {
       "name": "Librett",
       "date_created": "2021-11-29",
       "url": "https://github.com/victor-anisimov/Librett",
