@@ -1,7 +1,18 @@
 {
-  "total_projects": 150,
-  "last_updated": "2021-15-12T07:36:16Z",
+  "total_projects": 151,
+  "last_updated": "2022-07-01T07:36:16Z",
   "projects": [
+   {
+      "name": "Finite Field Operations on GPGPU ",
+      "date_created": "2022-01-07",
+      "url": "https://github.com/itzmeanjan/ff-gpu",
+      "type": "unspecified",
+      "short_description": "Finite Field Operations on GPGPU",
+      "owner": {
+        "name": "itzmeanjan",
+        "url": "https://github.com/itzmeanjan/ff-gpu"
+      }
+    },
    {
       "name": "Boids Simulation",
       "date_created": "2021-12-05",
