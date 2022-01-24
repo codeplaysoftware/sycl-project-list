@@ -1,8 +1,40 @@
 {
-  "total_projects": 151,
-  "last_updated": "2022-07-01T07:36:16Z",
+  "last_updated": "2022-07-01T24:36:16Z",
   "projects": [
    {
+      "name": "THAPI (Tracing Heterogeneous APIs)",
+      "date_created": "2022-01-24",
+      "url": "https://github.com/acts-project/algebra-plugins",
+      "type": "unspecified",
+      "short_description": "This repository provides different algebra plugins with minimal functionality for the R&D projects detray and traccc.",
+      "owner": {
+        "name": "acts-project",
+        "url": "hhttps://github.com/acts-project"
+      }
+    },
+   {
+      "name": "THAPI (Tracing Heterogeneous APIs)",
+      "date_created": "2022-01-24",
+      "url": "https://github.com/argonne-lcf/THAPI",
+      "type": "unspecified",
+      "short_description": "A tracing infrastructure for heterogeneous computing applications.",
+      "owner": {
+        "name": "argonne-lcf",
+        "url": "https://github.com/argonne-lcf"
+      }
+    },
+   {
+      "name": "GPU-Quicksort in OpenCL and SYCL",
+      "date_created": "2022-01-24",
+      "url": "https://github.com/rioffe/gpu-quicksort",
+      "type": "unspecified",
+      "short_description": "Quick Sort Algorithms written for SYCL",
+      "owner": {
+        "name": "rioffe",
+        "url": "https://github.com/rioffe"
+      }
+    },
+	{
       "name": "Finite Field Operations on GPGPU ",
       "date_created": "2022-01-07",
       "url": "https://github.com/itzmeanjan/ff-gpu",
@@ -10,7 +42,7 @@
       "short_description": "Finite Field Operations on GPGPU",
       "owner": {
         "name": "itzmeanjan",
-        "url": "https://github.com/itzmeanjan/ff-gpu"
+        "url": "https://github.com/itzmeanjan"
       }
     },
    {
@@ -305,17 +337,6 @@
       "url": "https://github.com/zenustech/tpls",
       "type": "unspecified",
       "short_description": "Third party libraries for zensim",
-      "owner": {
-        "name": "littlemine",
-        "url": "https://github.com/littlemine"
-      }
-    },
-    {
-      "name": "ZPC",
-      "date_created": "2021-09-04",
-      "url": "https://github.com/zenustech/zpc",
-      "type": "unspecified",
-      "short_description": "Zenus Simulation is the codebase zensim maintained by Zenus Tech, which delivers great parallel computing efficiency for physics-based simulations within a shared-memory heterogeneous architecture through a unified programming interface on multiple compute backends.",
       "owner": {
         "name": "littlemine",
         "url": "https://github.com/littlemine"
