@@ -2,14 +2,14 @@
   "last_updated": "2022-07-01T24:36:16Z",
   "projects": [
    {
-      "name": "THAPI (Tracing Heterogeneous APIs)",
+      "name": "Algebra Plugins",
       "date_created": "2022-01-24",
       "url": "https://github.com/acts-project/algebra-plugins",
       "type": "unspecified",
       "short_description": "This repository provides different algebra plugins with minimal functionality for the R&D projects detray and traccc.",
       "owner": {
-        "name": "acts-project",
-        "url": "hhttps://github.com/acts-project"
+        "name": "krasznaa",
+        "url": "https://github.com/krasznaa"
       }
     },
    {
