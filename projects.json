@@ -1683,6 +1683,17 @@
         "url": "https://github.com/menotti"
       },
       "type": "unspecified"
+    },
+    {
+      "name": "PLSSVM",
+      "date_created": "2022-05-13",
+      "url": "https://github.com/SC-SGS/PLSSVM",
+      "short_description": "Implementation of a parallel least squares support vector machine using multiple backends for different GPU vendors.",
+      "owner": {
+        "name": "SC-SGS",
+        "url": "https://github.com/SC-SGS"
+      },
+      "type": "library"
     }
   ]
 }
