@@ -1025,13 +1025,13 @@
       "type": "framework"
     },
     {
-      "name": "gromacs",
+      "name": "GROMACS",
       "date_created": "",
-      "url": "https://github.com/gromacs/gromacs",
-      "short_description": "No description provided.",
+      "url": "https://gitlab.com/gromacs/gromacs",
+      "short_description": "A free and open-source software suite for high-performance molecular dynamics and output analysis.",
       "owner": {
-        "name": "gromacs",
-        "url": "https://github.com/gromacs"
+        "name": "GROMACS",
+        "url": "https://www.gromacs.org/"
       },
       "type": "scientific"
     },
