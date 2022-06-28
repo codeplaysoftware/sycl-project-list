@@ -7,7 +7,7 @@ software etc.
 
 Below is a short list of different views using the ```projects.json``` file as its data source.
 
-* [Accumulation Graph of SYCL Projects/Year](https://scottstraughan.github.io/sycl-project-list/views/accumulated-projects-line-graph.html)
+* [Accumulation Graph of SYCL Projects/Year](https://codeplaysoftware.github.io/sycl-project-list/views/accumulated-projects-line-graph.html)
 * Coming Soon!
 
 ## Add A Project
@@ -18,7 +18,7 @@ Edit the file ```projects.json``` and add the below json object into the ```proj
 {
     "name": "Example SYCL Project",
     "date_created": "2020-05-02",
-    "url": "https://github.com/scottstraughan/sycl-project-list",
+    "url": "https://github.com/codeplaysoftware/sycl-project-list",
     "type": "library",
     "short_description": "This is an example SYCL project.",
     "owner": {

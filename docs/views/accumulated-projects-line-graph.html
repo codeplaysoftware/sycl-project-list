@@ -246,7 +246,7 @@
             $('#chart').hide();
             $('#loading').show();
 
-            $.get('https://raw.githubusercontent.com/scottstraughan/sycl-project-list/main/projects.json')
+            $.get('https://raw.githubusercontent.com/codeplaysoftware/sycl-project-list/main/projects.json')
                 .done(function(data) {
                     const chartDataModel =
                         convertYearBasedDictIntoGraphModel(
@@ -352,7 +352,7 @@
     <div>
         <div>
             <h1>Accumulated SYCL&trade; Projects by Year</h1>
-            <h2>Curated from <a href="https://github.com/scottstraughan/sycl-project-list"
+            <h2>Curated from <a href="https://github.com/codeplaysoftware/sycl-project-list"
                                 target="_blank"
                                 rel="noopener">sycl-project-list GitHub</a></h2>
         </div>
