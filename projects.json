@@ -1,7 +1,6 @@
 {
-  "last_updated": "2022-06-28T24:36:16Z",
   "projects": [
-   {
+    {
       "name": "SYCLomatic",
       "date_created": "2022-06-28",
       "url": "https://github.com/oneapi-src/SYCLomatic",
@@ -12,7 +11,7 @@
         "url": "https://github.com/zhiweij1"
       }
     },
-   {
+    {
       "name": "amrex tests",
       "date_created": "2022-06-28",
       "url": "https://github.com/WeiqunZhang/amrex-devtests",
@@ -23,7 +22,7 @@
         "url": "https://github.com/WeiqunZhang"
       }
     },
-   {
+    {
       "name": "openQCD simulation",
       "date_created": "2022-06-28",
       "url": "https://github.com/UCL/openqcd-oneapi",
@@ -34,7 +33,7 @@
         "url": "https://github.com/tkoskela"
       }
     },
-   {
+    {
       "name": "veo-sycl-bench",
       "date_created": "2022-06-28",
       "url": "https://github.com/Tohoku-University-Takizawa-Lab/veo-sycl-bench",
@@ -45,7 +44,7 @@
         "url": "https://github.com/hirotaki"
       }
     },
-   {
+    {
       "name": "Celerity ndzip",
       "date_created": "2022-06-28",
       "url": "https://github.com/celerity/ndzip",
@@ -56,7 +55,7 @@
         "url": "https://github.com/fknorr"
       }
     },
-   {
+    {
       "name": "SYCL_compilation_examples",
       "date_created": "2022-06-28",
       "url": "https://github.com/breyerml/SYCL_compilation_examples",
@@ -67,7 +66,7 @@
         "url": "https://github.com/breyerml"
       }
     },
-   {
+    {
       "name": "SyclCPLX",
       "date_created": "2022-06-28",
       "url": "https://github.com/argonne-lcf/SyclCPLX",
@@ -78,7 +77,7 @@
         "url": "https://github.com/TApplencourt"
       }
     },
-   {
+    {
       "name": "Mini-Caffe-SYCL",
       "date_created": "2022-06-28",
       "url": "https://github.com/TejaX-Alaghari/Mini-Caffe-SYCL",
@@ -89,7 +88,7 @@
         "url": "https://github.com/TejaX-Alaghari"
       }
     },
-   {
+    {
       "name": "Open3D",
       "date_created": "2022-06-28",
       "url": "https://github.com/isl-org/Open3D",
@@ -100,7 +99,7 @@
         "url": "https://github.com/yxlao"
       }
     },
-   {
+    {
       "name": "SYCL Mandelbrots",
       "date_created": "2022-06-28",
       "url": "https://github.com/sami-hatna66/sycl-mandelbrot",
@@ -111,7 +110,7 @@
         "url": "https://github.com/sami-hatna66"
       }
     },
-   {
+    {
       "name": "CUDA to SYCL nbody",
       "date_created": "2022-06-28",
       "url": "https://github.com/codeplaysoftware/cuda-to-sycl-nbody",
@@ -122,7 +121,7 @@
         "url": "https://github.com/joeatodd"
       }
     },
-   {
+    {
       "name": "Alpaka mallocMC",
       "date_created": "2022-06-28",
       "url": "https://github.com/alpaka-group/mallocMC",
@@ -133,7 +132,7 @@
         "url": "https://github.com/psychocoderHPC"
       }
     },
-   {
+    {
       "name": "Alpaka cupla",
       "date_created": "2022-06-28",
       "url": "https://github.com/alpaka-group/cupla",
@@ -144,7 +143,7 @@
         "url": "https://github.com/psychocoderHPC"
       }
     },
-   {
+    {
       "name": "WireCell SYCL",
       "date_created": "2022-06-28",
       "url": "https://github.com/WireCell/wire-cell-gen-sycl",
@@ -155,7 +154,7 @@
         "url": "https://github.com/HaiwangYu"
       }
     },
-   {
+    {
       "name": "ducc",
       "date_created": "2022-06-28",
       "url": "https://gitlab.mpcdf.mpg.de/mtr/ducc",
@@ -166,7 +165,7 @@
         "url": "https://gitlab.mpcdf.mpg.de/mtr"
       }
     },
-   {
+    {
       "name": "ELPA",
       "date_created": "2022-06-28",
       "url": "https://gitlab.mpcdf.mpg.de/elpa/elpa",
@@ -177,7 +176,7 @@
         "url": "https://gitlab.mpcdf.mpg.de/amarek"
       }
     },
-   {
+    {
       "name": "QMCPACK",
       "date_created": "2022-06-28",
       "url": "https://github.com/QMCPACK/qmcpack",
@@ -188,7 +187,7 @@
         "url": "https://github.com/ye-luo"
       }
     },
-   {
+    {
       "name": "ACTS detray",
       "date_created": "2022-06-28",
       "url": "https://github.com/acts-project/detray",
@@ -199,7 +198,7 @@
         "url": "https://github.com/beomki-yeo"
       }
     },
-   {
+    {
       "name": "STRUMPACK",
       "date_created": "2022-06-28",
       "url": "https://github.com/pghysels/STRUMPACK",
@@ -210,7 +209,7 @@
         "url": "https://github.com/pghysels"
       }
     },
-   {
+    {
       "name": "Algebra Plugins",
       "date_created": "2022-01-24",
       "url": "https://github.com/acts-project/algebra-plugins",
@@ -221,7 +220,7 @@
         "url": "https://github.com/krasznaa"
       }
     },
-   {
+    {
       "name": "THAPI (Tracing Heterogeneous APIs)",
       "date_created": "2022-01-24",
       "url": "https://github.com/argonne-lcf/THAPI",
@@ -232,7 +231,7 @@
         "url": "https://github.com/argonne-lcf"
       }
     },
-   {
+    {
       "name": "GPU-Quicksort in OpenCL and SYCL",
       "date_created": "2022-01-24",
       "url": "https://github.com/rioffe/gpu-quicksort",
@@ -243,7 +242,7 @@
         "url": "https://github.com/rioffe"
       }
     },
-	{
+    {
       "name": "Finite Field Operations on GPGPU ",
       "date_created": "2022-01-07",
       "url": "https://github.com/itzmeanjan/ff-gpu",
@@ -254,7 +253,7 @@
         "url": "https://github.com/itzmeanjan"
       }
     },
-   {
+    {
       "name": "Boids Simulation",
       "date_created": "2021-12-05",
       "url": "https://github.com/imwhocodes/boids-simulations-sycld",
