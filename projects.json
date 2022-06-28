@@ -1,6 +1,215 @@
 {
-  "last_updated": "2022-07-01T24:36:16Z",
+  "last_updated": "2022-06-28T24:36:16Z",
   "projects": [
+   {
+      "name": "SYCLomatic",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/oneapi-src/SYCLomatic",
+      "type": "unspecified",
+      "short_description": "SYCLomatic is a project to assist developers in migrating their existing code written in different programming languages to the SYCL* C++ heterogeneous programming model",
+      "owner": {
+        "name": "zhiweij1",
+        "url": "https://github.com/zhiweij1"
+      }
+    },
+   {
+      "name": "amrex tests",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/WeiqunZhang/amrex-devtests",
+      "type": "unspecified",
+      "short_description": "Tests for AMReX: Software Framework for Block Structured AMR",
+      "owner": {
+        "name": "WeiqunZhang",
+        "url": "https://github.com/WeiqunZhang"
+      }
+    },
+   {
+      "name": "openQCD simulation",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/UCL/openqcd-oneapi",
+      "type": "unspecified",
+      "short_description": "openQCD Simulation Program",
+      "owner": {
+        "name": "tkoskela",
+        "url": "https://github.com/tkoskela"
+      }
+    },
+   {
+      "name": "veo-sycl-bench",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/Tohoku-University-Takizawa-Lab/veo-sycl-bench",
+      "type": "unspecified",
+      "short_description": "A series of VEO and neoSYCL benchmarks for VE",
+      "owner": {
+        "name": "hirotaki",
+        "url": "https://github.com/hirotaki"
+      }
+    },
+   {
+      "name": "Celerity ndzip",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/celerity/ndzip",
+      "type": "unspecified",
+      "short_description": "A High-Throughput Parallel Lossless Compressor for Scientific Data",
+      "owner": {
+        "name": "fknorr",
+        "url": "https://github.com/fknorr"
+      }
+    },
+   {
+      "name": "SYCL_compilation_examples",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/breyerml/SYCL_compilation_examples",
+      "type": "unspecified",
+      "short_description": "Compilation examples using CMake and normal make for the four major SYCL implementations: oneAPI, ComputeCpp, hipSYCL and triSYCL",
+      "owner": {
+        "name": "breyerml",
+        "url": "https://github.com/breyerml"
+      }
+    },
+   {
+      "name": "SyclCPLX",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/argonne-lcf/SyclCPLX",
+      "type": "unspecified",
+      "short_description": "Sycl complex library header-only ",
+      "owner": {
+        "name": "TApplencourt",
+        "url": "https://github.com/TApplencourt"
+      }
+    },
+   {
+      "name": "Mini-Caffe-SYCL",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/TejaX-Alaghari/Mini-Caffe-SYCL",
+      "type": "unspecified",
+      "short_description": "Mini Caffe framework with SYCL backend",
+      "owner": {
+        "name": "TejaX-Alaghari",
+        "url": "https://github.com/TejaX-Alaghari"
+      }
+    },
+   {
+      "name": "Open3D",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/isl-org/Open3D",
+      "type": "unspecified",
+      "short_description": "Open3D: A Modern Library for 3D Data Processing",
+      "owner": {
+        "name": "yxlao",
+        "url": "https://github.com/yxlao"
+      }
+    },
+   {
+      "name": "SYCL Mandelbrots",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/sami-hatna66/sycl-mandelbrot",
+      "type": "unspecified",
+      "short_description": "Mandelbrot viewer making use of parallel processing optimisations using SYCL.",
+      "owner": {
+        "name": "Sami Hatna",
+        "url": "https://github.com/sami-hatna66"
+      }
+    },
+   {
+      "name": "CUDA to SYCL nbody",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/codeplaysoftware/cuda-to-sycl-nbody",
+      "type": "unspecified",
+      "short_description": "Accelerated N-body sim with OpenGL graphics & automatic CUDA->SYCL conversion using dpct.",
+      "owner": {
+        "name": "Joe Todd",
+        "url": "https://github.com/joeatodd"
+      }
+    },
+   {
+      "name": "Alpaka mallocMC",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/alpaka-group/mallocMC",
+      "type": "unspecified",
+      "short_description": "mallocMC: Memory Allocator for Many Core Architectures",
+      "owner": {
+        "name": "Rene Widera",
+        "url": "https://github.com/psychocoderHPC"
+      }
+    },
+   {
+      "name": "Alpaka cupla",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/alpaka-group/cupla",
+      "type": "unspecified",
+      "short_description": "cupla [qχɑpˈlɑʔ] is a simple user interface for the platform independent parallel kernel acceleration library alpaka.",
+      "owner": {
+        "name": "Rene Widera",
+        "url": "https://github.com/psychocoderHPC"
+      }
+    },
+   {
+      "name": "WireCell SYCL",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/WireCell/wire-cell-gen-sycl",
+      "type": "unspecified",
+      "short_description": "Toolkit for Liquid Argon TPC Reconstruction and Visualization",
+      "owner": {
+        "name": "HaiwangYu",
+        "url": "https://github.com/HaiwangYu"
+      }
+    },
+   {
+      "name": "ducc",
+      "date_created": "2022-06-28",
+      "url": "https://gitlab.mpcdf.mpg.de/mtr/ducc",
+      "type": "unspecified",
+      "short_description": "This is a collection of basic programming tools for numerical computation",
+      "owner": {
+        "name": "Martin Reinecke",
+        "url": "https://gitlab.mpcdf.mpg.de/mtr"
+      }
+    },
+   {
+      "name": "ELPA",
+      "date_created": "2022-06-28",
+      "url": "https://gitlab.mpcdf.mpg.de/elpa/elpa",
+      "type": "unspecified",
+      "short_description": "Eigenvalue Solvers for Petaflop Apllications (ELPA), please see elpa.mpcdf.mpg.de",
+      "owner": {
+        "name": "Andreas Marek",
+        "url": "https://gitlab.mpcdf.mpg.de/amarek"
+      }
+    },
+   {
+      "name": "QMCPACK",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/QMCPACK/qmcpack",
+      "type": "unspecified",
+      "short_description": "Main repository for QMCPACK, an open-source production level many-body ab initio Quantum Monte Carlo code for computing the electronic structure of atoms, molecules, and solids.",
+      "owner": {
+        "name": "ye-luo",
+        "url": "https://github.com/ye-luo"
+      }
+    },
+   {
+      "name": "ACTS detray",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/acts-project/detray",
+      "type": "unspecified",
+      "short_description": "Test library for detector surface intersection ",
+      "owner": {
+        "name": "beomki-yeo",
+        "url": "https://github.com/beomki-yeo"
+      }
+    },
+   {
+      "name": "STRUMPACK",
+      "date_created": "2022-06-28",
+      "url": "https://github.com/pghysels/STRUMPACK",
+      "type": "unspecified",
+      "short_description": "Structured Matrix Package (LBNL)",
+      "owner": {
+        "name": "pghysels",
+        "url": "https://github.com/pghysels"
+      }
+    },
    {
       "name": "Algebra Plugins",
       "date_created": "2022-01-24",
