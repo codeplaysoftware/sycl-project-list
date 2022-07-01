@@ -1,6 +1,61 @@
 {
   "projects": [
     {
+      "name": "Harmonic Bond",
+      "date_created": "2022-06-30",
+      "url": "https://github.com/adw62/HarmonicBond_CUDA2SYCL",
+      "type": "unspecified",
+      "short_description": "CUDA to SYCL conversion of the assembled bonded kernel from OpenMM ",
+      "owner": {
+        "name": "adw62",
+        "url": "https://github.com/adw62"
+      }
+    },
+    {
+      "name": "ascon",
+      "date_created": "2022-06-30",
+      "url": "https://github.com/itzmeanjan/ascon",
+      "type": "unspecified",
+      "short_description": "Accelerating Ascon: Light Weight Cryptography",
+      "owner": {
+        "name": "itzmeanjan",
+        "url": "https://github.com/itzmeanjan"
+      }
+    },
+    {
+      "name": "merklize-sha",
+      "date_created": "2022-06-30",
+      "url": "https://github.com/itzmeanjan/merklize-sha",
+      "type": "unspecified",
+      "short_description": "SYCL accelerated Binary Merklization using SHA1, SHA2 & SHA3",
+      "owner": {
+        "name": "itzmeanjan",
+        "url": "https://github.com/itzmeanjan"
+      }
+    },
+    {
+      "name": "hypre",
+      "date_created": "2022-06-29",
+      "url": "https://github.com/hypre-space/hypre",
+      "type": "unspecified",
+      "short_description": "Parallel solvers for sparse linear systems featuring multigrid methods.",
+      "owner": {
+        "name": "waynemitchell",
+        "url": "https://github.com/waynemitchell"
+      }
+    },
+    {
+      "name": "ADEPT",
+      "date_created": "2022-06-29",
+      "url": "https://github.com/mgawan/ADEPT/tree/sycl",
+      "type": "unspecified",
+      "short_description": "ADEPT is a GPU accelerated sequence alignment library for short DNA reads and protein sequences. ",
+      "owner": {
+        "name": "mgawan",
+        "url": "https://github.com/mgawan"
+      }
+    },
+    {
       "name": "SYCLomatic",
       "date_created": "2022-06-28",
       "url": "https://github.com/oneapi-src/SYCLomatic",
@@ -1643,7 +1698,7 @@
       "name": "petsc",
       "date_created": "2013-03-10",
       "url": "https://github.com/petsc/petsc",
-      "short_description": "No description provided.",
+      "short_description": "PETSc numerical library package",
       "owner": {
         "name": "petsc",
         "url": "https://github.com/petsc"
