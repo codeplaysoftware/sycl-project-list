@@ -1,6 +1,50 @@
 {
   "projects": [
     {
+      "name": "Crystal Library",
+      "date_created": "2022-07-12",
+      "url": "https://github.com/mspronesti/oneapi-crystal",
+      "type": "unspecified",
+      "short_description": "SYCL implementation of the Crystal library for SQL queries on GPU and CPU",
+      "owner": {
+        "name": "mspronesti",
+        "url": "https://github.com/mspronesti"
+      }
+    },
+    {
+      "name": "UPBGE, the best integrated game engine in Blender ",
+      "date_created": "2022-07-12",
+      "url": "https://github.com/UPBGE/upbge",
+      "type": "unspecified",
+      "short_description": "UPBGE, the best integrated game engine in Blender ",
+      "owner": {
+        "name": "ph0b",
+        "url": "https://github.com/ph0b"
+      }
+    },
+    {
+      "name": "SYCL tutorial for the 2022 Compute Ontario Summer School workshop on programming GPUs",
+      "date_created": "2022-07-12",
+      "url": "https://github.com/kris-rowe/coss-2022-sycl-tutorial",
+      "type": "unspecified",
+      "short_description": "SYCL tutorial for the 2022 Compute Ontario Summer School workshop on programming GPUs ",
+      "owner": {
+        "name": "kris-rowe",
+        "url": "https://github.com/kris-rowe"
+      }
+    },
+    {
+      "name": "MGARD",
+      "date_created": "2022-07-12",
+      "url": "https://github.com/CODARcode/MGARD",
+      "type": "unspecified",
+      "short_description": "MGARD: MultiGrid Adaptive Reduction of Data ",
+      "owner": {
+        "name": "JieyangChen7",
+        "url": "https://github.com/JieyangChen7"
+      }
+    },
+    {
       "name": "Harmonic Bond",
       "date_created": "2022-06-30",
       "url": "https://github.com/adw62/HarmonicBond_CUDA2SYCL",
