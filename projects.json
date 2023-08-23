@@ -1990,6 +1990,18 @@
         "url": "https://github.com/menotti"
       },
       "type": "unspecified"
+    },
+    {
+      "name": "Data Parallel Control",
+      "date_created": "2020-08-27",
+      "url": "https://github.com/IntelPython/dpctl",
+      "short_description": "Python SYCL bindings and SYCL-based Python Array API library .",
+      "owner": {
+        "name": "Intel",
+        "url": "https://github.com/IntelPython"
+      },
+      "type": "library",
+      "licence": "Apache 2.0"
     }
   ]
 }
