@@ -1990,6 +1990,17 @@
         "url": "https://github.com/menotti"
       },
       "type": "unspecified"
+    },
+    {
+      "name": "Double-Batched FFT Library",
+      "date_created": "2022-12-08",
+      "url": "https://github.com/intel/double-batched-fft-library",
+      "short_description": "A library for computing the Discrete Fourier Transform; targeting Graphics Processing Units; supporting OpenCL, Level Zero, and SYCL; with double-batching.",
+      "owner": {
+        "name": "Intel",
+        "url": "https://github.com/intel"
+      },
+      "type": "library"
     }
   ]
 }
