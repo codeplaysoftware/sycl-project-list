@@ -1,32 +1,9 @@
 # SYCL Project List
 
-This is simply a curated list of SYCL based projects. It is designed to be used in other services, charting 
-software etc.
+This project has been deprecated.
 
-## List of Views
+**We have migrated the projects to:**
 
-Below is a short list of different views using the ```projects.json``` file as its data source.
+https://github.com/codeplaysoftware/sycl.tech-content/tree/main/content/projects
 
-* [Accumulation Graph of SYCL Projects/Year](https://codeplaysoftware.github.io/sycl-project-list/views/accumulated-projects-line-graph.html)
-* Coming Soon!
-
-## Add A Project
-
-Edit the file ```projects.json``` and add the below json object into the ```projects``` array.
-
-```
-{
-    "name": "Example SYCL Project",
-    "date_created": "2020-05-02",
-    "url": "https://github.com/codeplaysoftware/sycl-project-list",
-    "type": "library",
-    "short_description": "This is an example SYCL project.",
-    "owner": {
-       "name": "Codeplay Software Ltd",
-       "url": "https://codeplay.com"
-     },
-    "licence": "MIT"
-}
-```
-
-Create a pull request.
+If you would like to add a SYCL project to SYCL.tech or to the related JSON feeds, please [click here to read the project contribution guidelines](https://github.com/codeplaysoftware/sycl.tech-content/tree/main/content/projects).
